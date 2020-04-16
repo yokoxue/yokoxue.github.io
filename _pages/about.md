@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), advised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
+* I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), advised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
 
 * My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis and applications in future wireless network.[[Google Scholar](https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en)]
 
@@ -25,3 +25,6 @@ redirect_from:
 
 # Academic Services
 * Reviewer: Globecom 2018, ICC 2018, APCC 2018, ISCAS 2016.
+
+# Teaching
+* teaching assistant: ELEC 2100: Signals and Systems, ELEC 5460: Advanced Stochastic Optimization for Wireless Systems, ELEC 1200:A System View of Communications: from Signals to Packets.
