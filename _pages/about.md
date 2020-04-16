@@ -13,11 +13,11 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), advised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
+* I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
 
 * My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis and applications in future wireless network.
 
-* I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research advisors is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
+* I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 # Recent News
 * April 2020. Served as volunteer of ICLR 2020.
 * Feb   2020. One paper accepted by  IEEE Transactions on Vehicular Technology.
