@@ -8,7 +8,7 @@ author_profile: true
 
 <b>[Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization](https://arxiv.org/pdf/2002.10043.pdf)</b> <br> 
 <b>Ye Xue</b>, Yifei Shen, Jun Zhang, Khaled B. Letaief, Vincent Lau (co-first autor)
-<i>Arxiv</i>. <b>arXiv:2002.10043</b>.
+<i>arXiv:2002.10043</i>.
 
 <b>[Adaptive preconditioned iterative linear detection and architecture for massive MU-MIMO uplink](https://link.springer.com/content/pdf/10.1007/s11265-017-1317-8.pdf)</b> <br> 
 <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang
