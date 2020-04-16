@@ -1,13 +1,13 @@
 ---
-title: "Variational Bottleneck Domain Adaptation"
+title: "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization"
 collection: publications
-permalink: /publications/VBDA
-venue: "The 24th European Conference on Artificial Intelligence (ECAI 2020)"
-date: 2019-11-20
-citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <b>ECAI 2020.</b>'
+permalink: /publications/UAI
+venue: "ArXiv 2020"
+date: 2020-2-26
+citation: 'Yifei Shen, <b>Ye Xue</b>, Jun Zhang, Khaled B. Letaief, Vincent Lau. <i>ArXiv 2020</i>.'(co-first author paper)
 ---
+[[PDF]](https://arxiv.org/abs/2002.10043)
 
-[[PDF]](https://arxiv.org/pdf/1911.09310.pdf)
 
 ## Abstract
-Domain adaptation aims to leverage the supervision signal of source domain to obtain an accurate model for target domain, where the labels are not available. To leverage and adapt the label information from source domain, most existing methods employ a feature extracting function and match the marginal distributions of source and target domains in a shared feature space. In this paper, from the perspective of information theory, we show that representation matching is actually an insufficient constraint on the feature space for obtaining a model with good generalization performance in target domain. We then propose variational bottleneck domain adaptation (VBDA), a new domain adaptation method which improves feature transferability by explicitly enforcing the feature extractor to ignore the task-irrelevant factors and focus on the information that is essential to the task of interest for both source and target domains. Extensive experimental results demonstrate that VBDA significantly outperforms state-of-the-art methods across three domain adaptation benchmark datasets.
+Dictionary learning is a classic representation learning method that has been widely applied in signal processing and data analytics. In this paper, we investigate a family of <i>ℓ</i><sub>p</sub>-norm (p>2,p∈N) maximization approaches for the complete dictionary learning problem from theoretical and algorithmic aspects. Specifically, we prove that the global maximizers of these formulations are very close to the true dictionary with high probability, even when Gaussian noise is present. Based on the generalized power method (GPM), an efficient algorithm is then developed for the <i>ℓ</i><sub>p</sub>-based formulations. We further show the efficacy of the developed algorithm: for the population GPM algorithm over the sphere constraint, it first quickly enters the neighborhood of a global maximizer, and then converges linearly in this region. Extensive experiments will demonstrate that the <i>ℓ</i><sub>p</sub>-based approaches enjoy a higher computational efficiency and better robustness than conventional approaches and p=3 performs the best.
