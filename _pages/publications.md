@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/citationshl=en&user=7A6ybEQAAAAJ&view_op=list_works&sortby=pubdate)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
