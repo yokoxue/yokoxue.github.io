@@ -1,13 +1,13 @@
 ---
-title: "Training Deep Energy-Based Models with f-Divergence Minimization"
+title: "Complete Dictionary Learning via \ell_p-norm Maximization"
 collection: publications
 permalink: /publications/fEBM
 venue: "ArXiv 2020"
-date: 2020-3-9
-citation: '<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon. <i>ArXiv 2020</i>.'
+date: 2020-2-26
+citation: 'Yifei Shen, <b> Ye Xue</b>, Jun Zhang, Khaled B. Letaief, Vincent Lau. <i>ArXiv 2020</i>.'(co-first author paper)
 ---
-[[PDF]](https://arxiv.org/pdf/2003.03463.pdf)
+[[PDF]](https://arxiv.org/abs/2002.10043)
 
 
 ## Abstract
-Deep energy-based models (EBMs) are very flexible in distribution parametrization but computationally challenging because of the intractable partition function. They are typically trained via maximum likelihood, using contrastive divergence to approximate the gradient of the KL divergence between data and model distribution. While KL divergence has many desirable properties, other f-divergences have shown advantages in training implicit density generative models such as generative adversarial networks. In this paper, we propose a general variational framework termed f-EBM to train EBMs using any desired f-divergence. We introduce a corresponding optimization algorithm and prove its local convergence property with non-linear dynamical systems theory. Experimental results demonstrate the superiority of f-EBM over contrastive divergence, as well as the benefits of training EBMs using f-divergences other than KL.
+Dictionary learning is a classic representation learning method that has been widely applied in signal processing and data analytics. In this paper, we investigate a family of ℓp-norm (p>2,p∈N) maximization approaches for the complete dictionary learning problem from theoretical and algorithmic aspects. Specifically, we prove that the global maximizers of these formulations are very close to the true dictionary with high probability, even when Gaussian noise is present. Based on the generalized power method (GPM), an efficient algorithm is then developed for the ℓp-based formulations. We further show the efficacy of the developed algorithm: for the population GPM algorithm over the sphere constraint, it first quickly enters the neighborhood of a global maximizer, and then converges linearly in this region. Extensive experiments will demonstrate that the ℓp-based approaches enjoy a higher computational efficiency and better robustness than conventional approaches and p=3 performs the best.
