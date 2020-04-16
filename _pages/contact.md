@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Electronic and Computer Engineering (ECE) Department, HKUST<br>
+RM 3116, HKUST  Clear Water Bay, Sai Kung District, Hong Kong,<br>
+Email: yxueaf [at] ust.hk
 
