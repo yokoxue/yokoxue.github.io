@@ -6,6 +6,10 @@ author_profile: true
 <br>
 <b>[Selected Publications]</b>
 
+<b>[Blind Data Detection in Massive MIMO via <i>ℓ</i><sub>3</sub>-norm Maximization over the Stiefel Manifold](https://arxiv.org/pdf/2004.12301.pdf)</b> <br> 
+<b>Ye Xue</b>, Yifei Shen, Vincent Lau, Jun Zhang, Khaled B. Letaief<br>
+<i>arXiv:2004.12301</i>.
+
 <b>[Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization](https://arxiv.org/pdf/2002.10043.pdf)</b> <br> 
 <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau<br>
 <i>arXiv:2002.10043</i>.
