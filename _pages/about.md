@@ -28,4 +28,4 @@ redirect_from:
 
 # Teaching
 * Teaching assistant: <p align=left>ELEC 2100: Signals and Systems; ELEC 5460: Advanced Stochastic Optimization for Wireless Systems</p> 
-                      <p align=left>ELEC 1200: A System View of Communications: from Signals to Packets; EESM 6980G/H MSc Project Telecom</p>
+                      <p align=left>ELEC 1200: A System View of Communications: from Signals to Packets; EESM 6980G/H: MSc Project Telecom</p>
