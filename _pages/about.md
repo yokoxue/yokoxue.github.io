@@ -19,9 +19,9 @@ redirect_from:
 
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 # Recent News
-* May 2020.   One paper ''Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau is accepted by UAI 2020. [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
+* May 2020.   One paper accepted by UAI 2020. [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
 * April 2020. I was served as a volunteer of ICLR 2020.
-* Feb   2020. One paper is accepted by  IEEE Transactions on Vehicular Technology. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
+* Feb   2020. One paper accepted by  IEEE Transactions on Vehicular Technology. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
 
 
 # Academic Services
