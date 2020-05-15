@@ -24,12 +24,11 @@ redirect_from:
 * Feb   2020. One paper accepted by  IEEE Transactions on Vehicular Technology. 
 
 # Selected Publications
-*Learning Theory
-  - Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
-*MIMO Communication
-  - Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You, <i>IEEE Transactions on Vehicular Technology, 2019</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
- - Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink <i>[Invited paper]<i> <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang
-  <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. 
+* Learning Theory
+  - "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau (Accepted by UAI 2020) [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
+* MIMO Communication
+  - "Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO" Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You, <i>IEEE Transactions on Vehicular Technology, 2019</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
+ - "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink" <i>[Invited paper]<i> <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. 
 
 
 [\* denotes equal contribution]
