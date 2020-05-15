@@ -25,10 +25,10 @@ redirect_from:
 
 # Selected Publications
 * Learning Theory
-  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" (Accepted by UAI 2020) [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
+  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL) (Accepted by UAI 2020) 
 * MIMO Communication
   -  Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You, "Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO"<i>IEEE Transactions on Vehicular Technology, 2019</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
-  - <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang, "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink" (Invited paper) <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. [[paper]](https://link.springer.com/article/10.1007/s11265-017-1317-8)
+  - <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang, "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink"  <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. [[paper]](https://link.springer.com/article/10.1007/s11265-017-1317-8) (Invited paper)
 * Robotics
   - Wei Cheng, <b>Ye Xue</b>, Chuan Liu and Ying-zi Tan, "An Efficient Method of Recognition Human Motion in Human-Robot Interaction System"  <i>Electrical Engineering and Automation, pp. 785-793 (2017)</i>. [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789813220362_0094)
 
