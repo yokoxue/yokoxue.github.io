@@ -24,12 +24,16 @@ redirect_from:
 * Feb   2020. One paper accepted by  IEEE Transactions on Vehicular Technology. 
 
 # Selected Publications
-  *Learning Theory
-    -<b>[Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization](https://arxiv.org/pdf/2002.10043.pdf)</b> <br> 
+*Learning Theory
+  -Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization <br> 
 <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau<br>  [[paper]](https://arxiv.org/pdf/2002.10043.pdf) [[code]](https://github.com/yokoxue/LpDL)
-  *MIMO communication
-  -
-
+*MIMO Communication
+  -Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO<br> 
+Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You<br>
+<i>IEEE Transactions on Vehicular Technology, 2019</i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
+ -Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink <i>[Invited paper]<i> <br> 
+  <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang<br>
+  <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. 
 
 
 [\* denotes equal contribution]
