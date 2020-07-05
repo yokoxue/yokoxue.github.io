@@ -20,6 +20,7 @@ redirect_from:
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 
 # Recent News
+* July 2020. I am serving as a volunteer of ICML 2020.
 * June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks.
 * May 2020.   One paper was accepted by UAI 2020. 
 * April 2020. I was served as a volunteer of ICLR 2020.
