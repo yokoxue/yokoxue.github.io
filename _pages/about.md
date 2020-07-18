@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/yokoxue/yokoxue.github.io/blob/master/images/myphoto.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://github.com/yokoxue/yokoxue.github.io/blob/master/images/mmexport1595089189849.jpeg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 # About Me
