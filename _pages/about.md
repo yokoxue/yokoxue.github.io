@@ -51,3 +51,4 @@ redirect_from:
 
 # Industrial Project
 * High Spectral Efficiency Wireless backhaul with LoS MIMO (09/2018-09/2019)
+* Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-)
