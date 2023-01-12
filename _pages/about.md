@@ -21,7 +21,9 @@ redirect_from:
 
 # Openings: WE WANT YOU!
 We are actively looking for Ph.D. students who are self-motivated and have a strong background in mathematics, machine learning, and wireless communications (joint Ph.D. program with Chinese University of Hong Kong, Shenzhen. More details can be found [here](http://www.sribd.cn/taxonomy/term/240)). We also welcome applications of Post-Doctoral Researchers, and Visiting Students (highly competitive salary can be offered).
+
 Please feel free to drop me an email with your CV, transcript, awards and publications (if any). 
+
 Note: please make your email subject as Name-School-Major-PhD application. 
 
 
