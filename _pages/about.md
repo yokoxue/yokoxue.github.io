@@ -13,14 +13,20 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
+* I joined [Shenzhen research institute of big data (SRIBD)](http://www.sribd.cn), associated with the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), as a research scientist.
 
-* My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network. 
+* My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network optimization. 
 
-* I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/).
+*  I  received my Ph.D. degree in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html) in 2022. Before that, I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/).
+
+# Openings: WE WANT YOU!
+We are actively looking for Ph.D. students who are self-motivated and have a strong background in mathematics, machine learning, and wireless communications (joint Ph.D. program with Chinese University of Hong Kong, Shenzhen. More details can be found [here](http://www.sribd.cn/taxonomy/term/240)). We also welcome applications of Post-Doctoral Researchers, and Visiting Students (highly competitive salary can be offered).
+Please feel free to drop me an email with your CV, transcript, awards and publications (if any). 
+Note: please make your email subject as Name-School-Major-PhD application. 
 
 
 # Recent News
+* August 2022. I joined SRIBD as a research scientist!
 * June 2022. I have successfully defended my thesis!
 * Nov 2021. One paper has been accepted by  IEEE Transactions on Neural Networks and Learning Systems. [[Full paper]](https://arxiv.org/pdf/2103.01484.pdf)
 * June 2021. One paper has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
