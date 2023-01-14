@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Electronic and Computer Engineering (ECE) Department, HKUST<br>
-RM 3116, HKUST  Clear Water Bay, Sai Kung District, Hong Kong,<br>
-Email: yxueaf [at] ust.hk
+SRIBD, CUHK(SZ)<br>
+RB 313c, Longgang District, Shenzhen, China<br>
+Email: xueye [at] cuhk.edu.cn
 
