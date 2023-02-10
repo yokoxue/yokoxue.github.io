@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Abouth the Machine Learning Theory"
+title: "Basic Tools"
 modified: 2020-Nov
 ---
 
