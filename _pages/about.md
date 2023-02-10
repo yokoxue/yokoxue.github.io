@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I joined [Shenzhen research institute of big data (SRIBD)](http://www.sribd.cn), associated with the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), as a research scientist.
+* I joined [Shenzhen research institute of big data (SRIBD)](http://www.sribd.cn), associated with the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), as a research scientist (Associate Research Fellow).
 
 * My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network optimization. 
 
@@ -28,6 +28,7 @@ Note: please make your email subject as Name-School-Major-PhD application.
 
 
 # Recent News
+* Jan 2023. One paper has been accepted by ICC 2023.
 * August 2022. I joined SRIBD as a research scientist!
 * June 2022. I have successfully defended my thesis!
 * Nov 2021. One paper has been accepted by  IEEE Transactions on Neural Networks and Learning Systems. [[Full paper]](https://arxiv.org/pdf/2103.01484.pdf)
@@ -84,5 +85,5 @@ Note: please make your email subject as Name-School-Major-PhD application.
 
 # Links
 * Find the codes of machine learning in wireless communication [[here]](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL).
-
+* My husband Dr. Kaixuan Wang is working on cutting-edge applications in autonomous driving industry. Check out his [[webpage]](https://wang-kx.github.io/).
 <a id="note1" href="#note1ref"><sup>1</sup></a> Chien-Shiung Wu College (honor) selects top 5% students in EE&CS field with an enrollment test, and the Advanced Class is made up of the top 30 elites of the selected students, offering extensive and demanding EE&CS courses in the first two years of undergraduate study. 
