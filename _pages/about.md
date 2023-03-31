@@ -28,7 +28,7 @@ Note: please make your email subject as Name-School-Major-PhD application.
 
 
 # Recent News
-* We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), colocated with [MobiSys 2023] (https://www.sigmobile.org/mobisys/2023/wsl.html).
+* We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), colocated with [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/wsl.html).
 * Jan 2023. One paper has been accepted by ICC 2023.
 * August 2022. I joined SRIBD as a research scientist!
 * June 2022. I have successfully defended my thesis!
