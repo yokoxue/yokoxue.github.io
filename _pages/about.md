@@ -30,13 +30,7 @@ Note: please make your email subject as Name-School-Major-PhD application.
 # Recent News
 * June 2023.  Our paper "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation" has been accepted by  IEEE Transactions on Signal    Processing. 
 * March 2023. We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), colocated with [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/wsl.html).
-* Jan 2023. One paper has been accepted by ICC 2023.
-* August 2022. I joined SRIBD as a research scientist!
-* June 2022. I have successfully defended my thesis!
-* Nov 2021. One paper has been accepted by  IEEE Transactions on Neural Networks and Learning Systems. [[Full paper]](https://arxiv.org/pdf/2103.01484.pdf)
-* June 2021. One paper has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
-* Dec 2020. Very honor to join the WiML-T (Women in Machine Learning Theory) program as a mentor!
-
+* Jan 2023. Our paper "Joint  Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC" has been accepted by ICC 2023.
 
 # Selected Publications
 * Learning Theory (Statistic + Optimization)
