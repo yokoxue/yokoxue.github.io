@@ -28,7 +28,7 @@ Note: please make your email subject as Name-School-Major-PhD application.
 
 
 # Recent News
-* June 2023.  Our paper "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation" has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2306.02433)
+* June 2023.  Our paper "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation" has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://ieeexplore.ieee.org/document/10146425)[[Arxiv]](https://arxiv.org/abs/2306.02433)
 * March 2023. We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), colocated with [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/wsl.html).
 * Jan 2023. Our paper "Joint  Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC" has been accepted by ICC 2023.[[paper]](https://arxiv.org/abs/2306.02436)
 
