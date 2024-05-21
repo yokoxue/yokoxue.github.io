@@ -13,23 +13,26 @@ redirect_from:
 </p>
 
 # About Me
-* I joined [Shenzhen research institute of big data (SRIBD)](http://www.sribd.cn), associated with the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), as a research scientist (Associate Research Fellow).
+* I am  currently a research scientist (Associate Research Fellow) of [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) and an adjunct assistant professor at the School of Data Science (SDS), the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-* My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network optimization. 
+* My research interests lie in machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization, and applications in  wireless network optimization. 
 
-*  I  received my Ph.D. degree in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html) in 2022. Before that, I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/).
+*  I  received my Ph.D. degree in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html) in 2022. Before that, I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/). I host 
 
 # Openings: WE WANT YOU!
-We are actively looking for Ph.D. students who are self-motivated and have a strong background in mathematics, machine learning, and wireless communications (joint Ph.D. program with Chinese University of Hong Kong, Shenzhen. More details can be found [here](http://www.sribd.cn/taxonomy/term/240)). We also welcome applications of Post-Doctoral Researchers, and Visiting Students (highly competitive salary can be offered).
+I am actively looking for Ph.D. students and visiting students who are self-motivated and have a strong background in mathematics, machine learning, and wireless communications. (joint Ph.D. program with Chinese University of Hong Kong, Shenzhen. More details can be found [here](http://www.sribd.cn/taxonomy/term/240))
 
-Please feel free to drop me an email with your CV, transcript, awards and publications (if any). 
+Please feel free to drop me an email with your CV, transcript, awards, and publications (if any). 
 
-Note: please make your email subject as Name-School-Major-PhD application. 
+Note: please make your email subject "Name-School-Major-PhD/RA application". 
 
 
 # Recent News
+* Jan 2024. Our paper "Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit" has been accepted by The Twelfth International Conference on Learning Representations (ICLR).
+* Jan 2024. Our paper "Neural Enhanced Variational Bayesian Inference on Graphs for Localized Statistical Channel Modeling" has been accepted by the IEEE International Conference on Communications (ICC).
+* August 2023. Our paper "Learning Beams Adaptive to the Environment: An RSRP-based Codebook Design" has been accepted by  the IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). [[paper]](https://ieeexplore.ieee.org/abstract/document/10304486)
 * June 2023.  Our paper "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation" has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://ieeexplore.ieee.org/document/10146425)[[Arxiv]](https://arxiv.org/abs/2306.02433)
-* March 2023. We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), colocated with [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/wsl.html).
+* March 2023. We are organizing [DTMS 2023-International Workshop on Digital Twin-Empowered Mobile Networks, Systems and Applications](https://fi.ee.tsinghua.edu.cn/dtms2023/cfp.html), co-located with [MobiSys 2023](https://www.sigmobile.org/mobisys/2023/wsl.html).
 * Jan 2023. Our paper "Joint  Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC" has been accepted by ICC 2023.[[paper]](https://arxiv.org/abs/2306.02436)
 
 # Selected Publications
@@ -46,31 +49,22 @@ Note: please make your email subject as Name-School-Major-PhD application.
   - Chuan Zhang,  <b>Ye Xue</b>,   Xiaohu You, " MIMO linear iteraction detection method extensive under non-ideal communication channel", <i>CN Patent, CN106357309B issued June 21, 2019</i>. [[patent]](https://patents.google.com/patent/CN106357309B/en?oq=CN106357309B)
   - <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang, "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink",  <i>Journal of Signal Processing Systems</i> (2018) 90:1453–1467. [[paper]](https://link.springer.com/article/10.1007/s11265-017-1317-8) 
  
-
 [\* denotes equal contribution]
+
+# Research Funds
+* NSFC Youth Fund Programme, No.62301334, 2024.01-2026.12, PI.
+* National Key R&D Program of China (Sub-project), 2023YFB2904804, 2023.12-2026.11,PI
 
 # Academic Services
 * Reviewer: IEEE Transactions on Signal Processing, IEEE Internet of Things Journal, IEEE Transactions on Wireless Communication, IEEE Transactions on Circuits and Systems II, Electronics Letters, Globecom 2018, 2021, ICC 2018, APCC 2018, ISCAS 2016.
 * Volunteer: ICLR 2020, ICML 2020, NeurIPS 2020, NeurIPS 2021 
 
 # Teaching
-* Teaching assistant:
+* Teaching assistant (HKUST):
   - ELEC 2100: Signals and Systems
   - ELEC 5460: Advanced Stochastic Optimization for Wireless Systems 
-  - ELEC 1200: A System View of Communications: from Signals to Packets
+  - ELEC 1200: A System View of Communications: From Signals to Packets
   - EESM 6980G/H: MSc Project Telecom
-
-# Industrial Project
-* Federated Learning in Wireless Communication (12/2021-)
-* High Spectral Efficiency Wireless Backhaul with LoS MIMO (09/2018-09/2019)
-    - Phase noise model and generation
-    - QoE-constraint transceiver design
-    - Achievable performance analysis to provide a guideline of the project
-    - System-level transceiver simulation platform
-    - Project slides and project report
-* Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-11/2020) <i> Patent submit </i>
-    - High-accuracy and low-complexity channel estimation fo large-scale OFDMA system
-    - Low-complexity robust transceiver design for the large-scale MU-MIMO-OFDMA system
 
 # Selected Award
 * 2017 HKUST Postgraduate Studentships 
