@@ -53,7 +53,7 @@ Note: please make your email subject "Name-School-Major-PhD/RA application".
 
 # Research Funds
 - The Young Scientists Fund of NSFC: 62301334 | Jan. 2024 – Dec. 2026
-      Digital-Twin-based Channel Modeling Method and Applications for Wireless Network Optimization PI
+    Digital-Twin-based Channel Modeling Method and Applications for Wireless Network Optimization PI
 - National Key R&D Program of China (Sub-project): 2023YFB2904804 | Dec. 2023 – Nov. 2026
 • Highly Dynamic Wireless Environment Prediction and Reconstruction for 6G PI
 Huawei Innovation Lab | Aug. 2024 – July. 2025
