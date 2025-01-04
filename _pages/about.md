@@ -52,18 +52,18 @@ Note: please make your email subject "Name-School-Major-PhD/RA application".
 [\* denotes equal contribution]
 
 # Research Funds
-- The Young Scientists Fund of NSFC: 62301334 | Jan. 2024 – Dec. 2026
-   &emsp; Digital-Twin-based Channel Modeling Method and Applications for Wireless Network Optimization PI
-- National Key R&D Program of China (Sub-project): 2023YFB2904804 | Dec. 2023 – Nov. 2026
-• Highly Dynamic Wireless Environment Prediction and Reconstruction for 6G PI
-Huawei Innovation Lab | Aug. 2024 – July. 2025
-• Localized Statistical Channel Modeling for Wireless Network Optimization Co PI
-National Key R&D Program of China: 2022YFA1003900 | Dec. 2022 – Nov. 2027
-• Theory of Learning to Optimize and Applications in 5G Network Optimiztion Key member
-Guangdong Major Project of Basic and Applied Basic Research: 2023B0303000001 | Dec. 2023 – Nov. 2028
-• Research on Key Technologies of 6G Network based on Environment Enhancement Key member
-National Key R&D Program of China: 2024YFA1014204 | Dec. 2024 – Nov. 2027
-• Mathematical Modeling Theory and Optimization Methods for Mobile Network Structure Optimization Member
+- PI: The Young Scientists Fund of NSFC: 62301334 | Jan. 2024 – Dec. 2026
+    _Digital-Twin-based Channel Modeling Method and Applications for Wireless Network Optimization_ 
+- PI: National Key R&D Program of China (Sub-project): 2023YFB2904804 | Dec. 2023 – Nov. 2026
+    _Highly Dynamic Wireless Environment Prediction and Reconstruction for 6G_ 
+- CoPI: Huawei Innovation Lab | Aug. 2024 – July. 2025
+    _Localized Statistical Channel Modeling for Wireless Network Optimization_ 
+- Key member: National Key R&D Program of China: 2022YFA1003900 | Dec. 2022 – Nov. 2027
+  _Theory of Learning to Optimize and Applications in 5G Network Optimization_ 
+- Key member: Guangdong Major Project of Basic and Applied Basic Research: 2023B0303000001 | Dec. 2023 – Nov. 2028
+   _Research on Key Technologies of 6G Network based on Environment Enhancement_ 
+- Member: National Key R&D Program of China: 2024YFA1014204 | Dec. 2024 – Nov. 2027
+  _Mathematical Modeling Theory and Optimization Methods for Mobile Network Structure Optimization_ 
 
 # Academic Services
 * Reviewer: IEEE Transactions on Signal Processing, IEEE Internet of Things Journal, IEEE Transactions on Wireless Communication, IEEE Transactions on Circuits and Systems II, Electronics Letters, Globecom 2018, 2021, ICC 2018, APCC 2018, ISCAS 2016.
