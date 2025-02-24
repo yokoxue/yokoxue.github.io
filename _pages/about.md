@@ -15,7 +15,7 @@ redirect_from:
 # About Me
 * I am  currently a research scientist (Associate Research Fellow) of [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) and an adjunct assistant professor at the School of Data Science (SDS), the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-* My research interests lie in the general area of  signal processing, machine learning, and wireless communication, particularly in non-convex optimization, learning to optimize, federated learning, and applications in wireless channel modeling and network optimization. 
+* My research interests lie in the general area of  sparsity-aided machine learning for wireless communication, sparse signal processing, data-driven wireless channel modeling, and network optimization.
 
 *  I  received my Ph.D. degree in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html) in 2022. Before that, I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/). 
 
