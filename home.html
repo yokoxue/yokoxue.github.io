@@ -4,15 +4,34 @@
 <head>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Lixiang LIAN 廉黎祥</title>
+<title>Ye XUE</title>
+<style type="text/css">
+/* Minimal mobile tweaks while preserving jemdoc layout */
+@media (max-width: 640px) {
+  #tlayout { width: 100%; }
+  .imgtable, .imgtable tr, .imgtable td { display:block; width:100%; }
+  .imgtable img { max-width: 160px; height: auto; }
+  #layout-menu { width: 100%; }
+  #layout-content { width: 100%; }
+}
+.smallnote { color:#666; font-size:90%; }
+.badge { display:inline-block; padding:2px 6px; background:#0a7; color:#fff; border-radius:4px; font-size:85%; }
+.btn { display:inline-block; padding:2px 6px; border:1px solid #888; border-radius:4px; text-decoration:none; margin-right:6px; font-size:90%; }
+.btn:hover { background:#f3f3f3; }
+hr.sep { border:0; border-top:1px dashed #ccc; margin:1.0em 0; }
+ul.tight li { margin: 0.25em 0; }
+ol.tight li { margin: 0.35em 0; }
+blockquote.note { border-left:4px solid #0a7; margin:0.6em 0; padding:0.4em 0.8em; background:#f7fffb; }
+</style>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
 <div class="menu-category">Menu</div>
-<div class="menu-item"><a href="home.html" class="current">Home</a></div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="aboutme.html">About&nbsp;Me</a></div>
 <div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
@@ -21,109 +40,106 @@
 <div class="menu-category">Others</div>
 <div class="menu-item"><a href="resources.html">Resources</a></div>
 </td>
+
 <td id="layout-content">
 <div id="toptitle">
-<h1>Lixiang LIAN 廉黎祥</h1>
+<h1>Ye XUE 薛烨</h1>
 </div>
+
 <table class="imgtable"><tr><td>
-<img src="P2.png" alt="alt text" width="133px" height="170px" />&nbsp;</td>
-<td align="left"><p><b>Assistant Professor</b>
-<br /> <a href="https://sist.shanghaitech.edu.cn/">School of Information Science and Technology (SIST)</a>, 
-<br /><a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a><br />
-Email: <a href="mailto:lianlx@shanghaitech.edu.cn">lianlx@shanghaitech.edu.cn</a> <br />
-Address: Room 302.C, SIST Building 2, <br /> 
-393 Middle Huaxia Road, <br />
-Pudong District, Shanghai 201210, China. <br /> 
-Phone: +021 20684441 <br />  </p>
+<img src="profile.jpg" alt="Ye Xue" width="133px" height="170px" />&nbsp;</td>
+<td align="left">
+<p>
+
+<b>Research Scientist (Research Associate)</b><br />
+<a href="https://www.sribd.cn/" target="_blank" rel="noopener">Shenzhen Research Institute of Big Data (SRIBD)</a><br />
+<b>Assistant Professor (Adjunct)</b><br />
+School of Data Science (SDS), <a href="https://www.cuhk.edu.cn/" target="_blank" rel="noopener">The Chinese University of Hong Kong, Shenzhen</a><br />
+Email: <a href="mailto:xueye@cuhk.edu.cn">xueye@cuhk.edu.cn</a><br />
+Personal Site: <a href="https://yokoxue.github.io/" target="_blank" rel="noopener">https://yokoxue.github.io/</a>
+</p>
+<p>
+<a class="btn" href="https://github.com/yokoxue" target="_blank" rel="noopener">GitHub</a>
+<a class="btn" href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+<a class="btn" href="https://dblp.org/" target="_blank" rel="noopener">DBLP</a>
+<a class="btn" href="https://orcid.org/" target="_blank" rel="noopener">ORCID</a>
+</p>
 </td></tr></table>
+
+<h2>Introduction</h2>
+<p>
+I am a Research Scientist at the Shenzhen Research Institute of Big Data and an Adjunct Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, and my B.Eng. in Communication Engineering from Southeast University in 2017 (Chien‑Shiung Wu Honor College, Advanced Class). My research spans  sparse/efficient AI, physically grounded world model, and AI for mathematical optimization.
+</p>
+
 <h2>Research</h2>
-<p>My research interests include </p>
+<p>
+My group builds Field World Models (FWM): physically grounded, data-driven models of real-world fields that fuse geometry, materials, and multimodal measurements. We aim to deliver environment-aware communication and decision-making that are interpretable, editable, and deployable. While our current focus is electromagnetics/wireless, the same methodology naturally extends to turbulence, acoustics, optics, and thermal domains.
+</p>
+
+<p>Our work spans three tightly coupled thrusts:</p>
 <ul>
-<li><p>Wireless Communication and Sensing</p>
-</li>
-<li><p>Artificial Intelligence </p>
-</li>
-<li><p>Compressive Sensing  </p>
-</li>
-<li><p>Machine Learning</p>
-</li>
+  <li><p><b>Field World Model (FWM)</b>: Learn spatial fields and dynamics from multimodal data (e.g., BIM/point clouds/maps, vision/language, IMU/GNSS, RF sweeps/arrays). We combine neural and physics-based components (NeRF/3DGS, diffusion/energy models, GNNs, neural operators such as FNO/DeepONet/GNO) with PDE and boundary consistency, and structured sparsity/low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement.</p></li>
+
+  <li><p><b>Sparse and Efficient AI</b>: Develop structured sparsity, low-rank, and tensorization methods, with unified compression/distillation across data, features, models, and gradients. We enable edge–cloud collaboration, federated training, and HW/SW co-acceleration (CPU/GPU/FPGA) for reliable on-device deployment.</p></li>
+
+  <li><p><b>Learning-based Optimization (L2O)</b>: Build differentiable and learned solvers (RL/GNN/neural combinatorial optimization) that operate on FWM to make constrained decisions. Targets include site placement, beam/power/spectrum allocation, routing/formation planning, with feasibility guarantees, learned warm-starts, and fast cross-scenario adaptation.</p></li>
 </ul>
+
+
+<h2>Current Openings</h2>
 <div class="infoblock">
 <div class="blockcontent">
-<p>My research interests lie in the broad area of <b>6G wireless communication, sensing and
-artificial intelligence</b>. My current research focuses on the design of
-machine learning algorithms and signal processing algorithms with applications to wireless
-communications and sensing, and <b>building practical systems to support real-world
-applications</b> on top of it. In particular, current works include mutualistic sensing and communication (MuSAC), intelligent communication and sensing (ICAS), near-field sensing, semantic communication, distributed learning, deep
-learning based high-dimensional signal processing and large-scale optimization.</p>
-</div></div>
-<h2>Current Openings </h2>
-<div class="infoblock">
-<div class="blockcontent">
-<p><i>Join us! We're looking for exceptional students with recommendation exemption（推免资格) to join our team as direct Ph.D. candidates starting in 2026. If you're excited about interdisciplinary research at the intersection of machine learning, wireless communications, sensing, and artificial intelligence of things, I'd love to hear from you!</i></p>
+<p><i>We recruit PhD/Master/Research Assistants/Interns with strengths in MATH (optimization/probability/geometry), AI (deep/graph/generative modeling,3DGS/Nerf, and neural operators), or SYSTEMS (C++/CUDA/FPGA/robotics/UAV/wireless). We value curiosity, hands-on ability, reproducibility, and cross-disciplinary collaboration.</i></p>
 </div></div>
 <ul>
-<li><p>Postdoc researchers</p>
-</li>
-<li><p>Postgraduate students (both master students and doctoral students) </p>
-</li>
-<li><p>Visiting students</p>
-</li>
-<li><p>Research assistant</p>
-</li>
+<li><p>Positions: PhD, Master, Research Assistants, Visiting students/interns (rolling).</p></li>
+<li><p>Application: CV, transcripts, representative work (papers/code/demos/competitions); optional personal site or GitHub.</p></li>
+<li><p>Email subject: <code>Apply-Name-Track(A/B/C)-StartTime</code></p></li>
+<li><p>Contact: <a href="mailto:xueye@cuhk.edu.cn">xueye@cuhk.edu.cn</a></p></li>
 </ul>
-<p>Please  <a href="mailto:lianlx@shanghaitech.edu.cn">contact me</a> for more details. 
-<a href="resources.html">[My requirements on my postgraduate students.]</a></p>
-<h3>Recent Publications </h3>
-<ol>
-<li><p>L. Li, <b>L. Lian</b>, S. Zhang, et al., &ldquo;A Physics-Motivated Large Scale Interference Decoupling and Channel Estimation Scheme for Multi-Cell Interfering Environments,&rdquo; in IEEE Wireless Communications Letters, 2025.</p>
-</li>
-<li><p>H. Su, <b>L. Lian</b>, K. Huang and S. Zhang, &ldquo;A Three-Stage Physics-Driven Transmission Scheme For Integrated Sensing and Communication Systems With Noisy Angular Information,&rdquo; in IEEE Wireless Communications Letters, 2025.</p>
-</li>
-<li><p>J. Qin and <b>L. Lian</b>, “Data-Aware Beamforming for Integrated Sensing and Communication Enabled AI Systems," in IEEE Wireless Communications Letters, 2025.</p>
-</li>
-<li><p>J. Huang, <b>L. Lian</b>, D. Wen, et al.,“Dynamic UAV-Assisted Cooperative Edge AI Inference," in IEEE Transactions on Wireless Communications, vol. 24, no. 1, pp. 615-628, Jan. 2025. </p>
-</li>
-<li><p>H. Gao, B. Zhou, <b>L. Lian</b>, Z. Wei, X. Li and Y. Zhuang, &ldquo;Self-Interference-Alleviated Beamforming towards 6G Integrated Sensing and Communication,&rdquo; IEEE International Conference on Communications (ICC)，2025. </p>
-</li>
-<li><p>M. Yuan, <b>L. Lian</b> and S. Ji, &ldquo;Physics-Informed Data Augmentation for CSI Data-Limited Deep Learning Driven Communication Tasks,&rdquo; IEEE International Conference on Communications (ICC) Workshop, 2025. </p>
-</li>
-<li><p>H. Tian and <b>L. Lian</b>, &ldquo;GSURE-Based Unsupervised Deep Equilibrium Model Learning for Large-Scale Channel Estimation,&rdquo; GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4938-4943.</p>
-</li>
-<li><p>X. Fang and <b>L. Lian</b>,&ldquo;Catalyzing Near-field Localization Through RIS Assistance: Optimization of Hybrid Operational Paradigms,&rdquo; GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4448-4453.</p>
-</li>
-<li><p>S. Ji, <b>L. Lian</b>, Y. Zheng, et al., &ldquo;MuSAC: Mutualistic Sensing and Communication for Mobile Crowdsensing,&rdquo; 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), Jersey City, NJ, USA, 2024, pp. 243-254.</p>
-</li>
-<li><p>J. Jiang, <b>L. Lian</b>, T. Yu, et al., “A Novel Dual-Driven Channel Estimation Scheme for Spatially Non-Stationary Fading Environments," in IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7027-7042, July 2024. </p>
-</li>
-<li><p>S. Hu, <b>L. Lian</b>, H. Qian, et al, &ldquo;Blind Multi-Level MAP Detection With Phase Noise Compensation in MIMO-OFDM Systems,&rdquo; in IEEE Transactions on Communications, vol. 72, no. 3, pp. 1596-1611, March 2024.</p>
-</li>
-<li><p>Y. Shi, <b>L. Lian</b>, Y. Shi, Z. Wang, Y. Zhou, L. Fu, L. Bai, J. Zhang and W. Zhang, &ldquo;Machine Learning for Large-Scale Optimization in 6G Wireless Networks,&rdquo; IEEE Communications Surveys &amp; Tutorials, 2023.</p>
-</li>
-<li><p>Y. Xu and <b>L. Lian</b>, &ldquo;Channel Estimation Based on Contrastive Feature Learning with Few Labeled Samples,&rdquo; 2023 IEEE Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2023. </p>
-</li>
-<li><p><b>L. Lian</b>  and B. Wang, &ldquo;Regularized Deep Generative Model Learning for Real-Time Massive MIMO Channel Tracking,&rdquo; ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5.</p>
-</li>
-<li><p>J. Cao, <b>L. Lian</b>, Y. Mao and B. Clerckx, &ldquo;Adaptive CSI Feedback with Hidden Semantic Information Transfer,&rdquo; ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5.</p>
-</li>
-<li><p>P. Gao, <b>L. Lian</b> and J. Yu, “Efficiency of Spatial Correlation for Multi-RIS-Assisted Multi-User Direct Localization,” IEEE International Conference on Communications (ICC), 2023.</p>
-</li>
-<li><p>P. Gao, <b>L. Lian</b> and J. Yu, &ldquo;Cooperative ISAC With Direct Localization and Rate-Splitting Multiple Access Communication: A Pareto Optimization Framework,&rdquo; in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1496-1515, May 2023.</p>
-</li>
-<li><p>K. Zhao, Y. Mao, Z. Yang, <b>L. Lian</b> and B. Clerckx, &ldquo;Reconfigurable Intelligent Surfaces Empowered Cooperative Rate Splitting with User Relaying,&rdquo; International Symposium on Wireless Communication Systems (ISWCS), 2022.</p>
-</li>
-<li><p>J. Cao and <b>L. Lian</b>, "Information Bottleneck Based Joint Feedback and Channel Learning in FDD Massive MIMO Systems,” 2022 IEEE Global Communications Conference, 2022. </p>
-</li>
-<li><p>P. Gao, <b>L. Lian</b> and J. Yu, &ldquo;Wireless Area Positioning in RIS-Assisted mmWave Systems: Joint Passive and Active Beamforming Design,&rdquo; in IEEE Signal Processing Letters, vol. 29, pp. 1372-1376, 2022.</p>
-</li>
-<li><p>B. Wang and <b>L. Lian</b>, "Online Compressive Channel Learning Using Untrained Deep Generative Model,” in 2022 IEEE 95rd Vehicular Technology Conference (VTC2022-Spring), 2022.</p>
-</li>
-<li><p>P. Gao, <b>L. Lian</b> and J. Yu, &ldquo;Optimal Passive Beamforming for Cooperative Localization with RIS-Assisted mmWave systems&rdquo;, in IEEE Wireless communications and Networking Conference Workshop (WNCNW), Austin, TX, USA, 2022, pp. 1-6.</p>
-</li>
-<li><p>P. Fang and <b>L. Lian</b>, "Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” IEEE International Conference on Communications (ICC), Seoul, South Korea, 2022, pp. 1-6.  </p>
-</li>
+
+<hr class="sep" />
+
+<h2>Selected Recent Publications</h2>
+<ol class="tight">
+  <li>Yeqing Qiu, Chengpiao Huang, <b>Ye Xue#</b>, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, “Relaxation-free Min-k-partition for PCI Assignment in 5G Networks,” IEEE Transactions on Signal Processing, 2025. doi: 10.1109/TSP.2025.3604409. </li>
+  <li>Yeqing Qiu, <b>Ye Xue#</b>, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, “ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems,” accepted by International Conference on Machine Learning (ICML), 2025.</li>
+  <li>Yeqing Qiu, <b>Ye Xue#</b>, Zhipeng Jiang, Qingjiang Shi, “Relaxed Gradient Projection for PCI Assignment in 5G Network,” accepted by the 14th IEEE/CIC International Conference on Communications in China (ICCC 2025).</li>
+  <li>Xinyu Qin, Shutao Zhang, Bingsheng Peng, <b>Ye Xue#</b>, Chao Shen, Qiliang Xie, Yuk Ngai Lee, Tsung-Hui Chang, “A Deep Learning Framework for Large-Scale Localized Statistical Channel Modeling,” accepted by the 2025 IEEE Global Communications Conference (GLOBECOM) Workshop.</li>
+  <li>Yiheng Wang, Shutao Zhang, <b>Ye Xue#</b>, Tsung-Hui Chang, “Multi-Modal Neural Radio Radiance Field for Localized Statistical Channel Modelling,” accepted by the 2025 IEEE Global Communications Conference (GLOBECOM) Workshop.</li>
+  <li>Ye Xue∗#, Yiheng Wang∗, Shutao Zhang, Tsung-Hui Chang, “GNN-based Structured Bayesian Inference for Multi-grid Localized Statistical Channel Modeling,” IEEE Transactions on Wireless Communications, 2025. <span class="badge">Q1</span></li>
 </ol>
-<p><br /> <a href="publications.html">Full list of publications</a>. </p>
+  <p class="smallnote">[* equal contribution, # corresponding author] &nbsp; <a href="publications.html">Full list of publications</a>.</p>
+
+<h2>Funding</h2>
+<ul class="tight">
+  <li>NSFC Young Scientists Fund (62301334), 2024–2026, PI.</li>
+  <li>National Key R&amp;D Program of China (2023YFB2904800), 2023–2026, Sub-project PI.</li>
+  <li>SRIBD Project (J00220230002), 2023–2024, PI.</li>
+  <li>National Key R&amp;D Program of China (2022YFA1003900), 2022–2027, Key member.</li>
+  <li>Guangdong Major Project (2023B0303000001), 2023–2028, Core member.</li>
+</ul>
+
+<h2>Industrial Collaboration</h2>
+<ul class="tight">
+  <li>Huawei Innovation Lab (2024–2025): localized statistical channel modeling used in SRCON for wireless network optimization.</li>
+  <li>China Mobile Hong Kong (2024–2025): EdgeAI–Wireless Digital Twin for environment-aware network optimization.</li>
+  <li>Invited talks: Huawei RAN Research Dept. Meetup (2025); Huawei 2012 Lab (2023).</li>
+</ul>
+
+
+
+<h2>Honors and Awards</h2>
+<ul class="tight">
+  <li>Shenzhen “Pengcheng Peacock Program” Specific Talent (2023).</li>
+  <li>HKUST Postgraduate Studentships (2017).</li>
+  <li>First Prize of Excellent UG Thesis of Jiangsu Province (2017).</li>
+  <li>Baosteel Scholarship (2016).</li>
+  <li>Microsoft Research Asia Young Scholar Awards (2015).</li>
+  <li>RoboCup (2015): 2nd/3rd places (Kidsize).</li>
+</ul>
+
+
 </td>
 </tr>
 </table>
