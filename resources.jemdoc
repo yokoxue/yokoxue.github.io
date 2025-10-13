@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{resources.html}, nofooter 
+= Resources
+
+== Useful Information
+- My requirements on my postgraduate students
+  -- *self-motivation and curiosity* 
+  -- quick learning ability
+  -- real problem solving ability
+  -- communication ability
+  -- work hard and play hard
+ 
+== Software
+. Optimization Solver
+  .. [http://cvxr.com/cvx/ cvx]
+ 
+== Books
+A list of books a postgraduate student in my group should read. 
+. Optimization 
+  .. [https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf Convex Optimization], by S. Boyd and L. Vandenberghe, Cambridge University Press, 2003. [https://web.stanford.edu/class/ee364b/lectures.html \[EE364b, Stanford\]]
+  .. [https://link.springer.com/book/10.1007/978-3-319-18842-3 Linear and Nonlinear Programming] by David G. Luenberger and Yinyu Ye, Springer US, 2009. 
+  .. [https://epubs.siam.org/doi/book/10.1137/1.9781611974997 First-Order Methods in Optimization] by Amir Beck, SIAM-Society for Industrial and Applied Mathematics, 2017. [https://yuxinchen2020.github.io/ele522_optimization/index.html \[ELE522, Princeton\]]
+  .. [http://www.apmath.spbu.ru/cnsa/pdf/monograf/Numerical_Optimization2006.pdf Numerical Optimization] by Jorge Nocedal and Stephen J. Wright, Springer-Verlag, 2006.
+  .. [http://athenasc.com/linoptbook.html Introduction to linear optimization] by Dimitris Bertsimas, John N. Tsitsiklis, John Tsitsiklis, Athena Scientific, 1997. 
+. Compressive Sensing
+  .. [https://book-wright-ma.github.io/ High-Dimensional Data Analysis with Low-Dimensional Models] by John Wright   and   Yi Ma, Cambridge University Press, 2022. 
+. Machine Learning 
+.. [http://www.cs.cmu.edu/~tom/10701_sp11/ Machine Learning] by Tom Mitchell. [http://www.cs.cmu.edu/~tom/10701_sp11/ \[ML 10-701, CMU\]]
+.. [https://web.stanford.edu/~hastie/ElemStatLearn/ The Elements of Statistical Learning: Data Mining, Inference, and Prediction] by Trevor Hastie, Robert Tibshirani, and Jerome Friedman, Springer-Verlag, 2009. 
+.. [https://www.deeplearningbook.org/ Deep Learning] by Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016. [http://cs231n.stanford.edu/ \[CS231n, Stanford\]]
+.. [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf Pattern Recognition and Machine Learning] by Christopher Bishop, Springer, 2007.[http://cs229.stanford.edu/ \[CS229, Stanford\]]
+.. [https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf Reinforcement Learning: An Introduction] by Richard S. Sutton and Andrew G. Barto, MIT Press, 2015.
+. Statistics
+  .. [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html High-Dimensional Probability: An Introduction with Applications in Data Science] by Roman Vershynin, Cambridge University Press, 2018.
+  .. [https://people.eecs.berkeley.edu/~wainwrig/BibPapers/Wai19.pdf High-Dimensional Statistics: A Non-Asymptotic Viewpoint] by Martin Wainwright, 2017.
+  .. [https://terrytao.wordpress.com/books/topics-in-random-matrix-theory/ Topics in Random Matrix Theory] by Terence Tao, American Mathematical Society, 2012.
+  .. [https://www.cambridge.org/catalogue/catalogue.asp?isbn=0521784506 Asymptotic Statistics] by A. W. van der Vaart, Cambridge University Press, 2012.
+. Wireless Communication
+  .. [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communications] by David Tse and Pramod Viswanath, Cambridge University Press, 2005.  
+  .. [http://staff.ustc.edu.cn/~mfy/InfoTheory/Complements/Elements%20of%20Information%20Theory%202nd.pdf Elements of Information Theory] by Thomas M. Cover and Joy A. Thomas, Wiley, 2006.
+. Matrix Analysis
+  .. [https://www.cambridge.org/core/books/matrix-analysis/9CF2CB491C9E97948B15FAD835EF9A8B Matrix Analysis] by Roger A.Horn and Charles R. Johnson, Cambridge University Press, 2012.  
+  .. [https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf Linear Algebra and its application] by David C.Lay, Steven R.Lay, Judi J. Mcdonald, Pearson, 2014.
+  .. [https://jhupbooks.press.jhu.edu/title/matrix-computations Matrix Computations] by Gene H. Golub and Charles F. Van Load, Johns Hopkins University Press, 1996. 
+  .. [http://matrixanalysis.com Matrix Analysis and Applied Linear Algebra] by Carl D. Meyer, SIAM, 2001.
+  .. [http://matematicas.uis.edu.co/sites/default/files/paginas/archivos/Advanced%20Linear%20Algebra%20-%20Steven%20Roman.pdf Advanced Linear Algebra] by Steven Roman, Springer, 2005.
+
+\n [home.html Return to Home Page]. 
+
+
+ 
+
+
