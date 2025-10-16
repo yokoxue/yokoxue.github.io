@@ -2,78 +2,50 @@
 = PUBLICATIONS 
 
 
-~~~
-== Highlighted Contributions
-=== Theoretical Contributions
-- Fundamental Performance Limits of Cooperative Localization
--- e.g., [https://arxiv.org/abs/2504.04791 Theoretical Analysis and Principles of Interpretations].
-- Distributed Dictionary Learning
--- e.g., [https://arxiv.org/abs/2211.03628 Distributed Complete Dictionary Learning via l4-Norm Maximization].
-- High-Dimensional Signal Processing
--- e.g., [https://ieeexplore.ieee.org/document/8253903 Weighted LASSO], [https://ieeexplore.ieee.org/document/8989963 Turbo-VBI].
-=== Application-Oriented Contributions
-- Integrated Sensing and Communication Enabled AI Systems
--- e.g., [https://ieeexplore.ieee.org/document/10937194 Data-Aware Beamforming for ISAC Enabled AI Systems].
-- Pareto-Optimal Cooperative ISAC Systems
--- e.g., [https://ieeexplore.ieee.org/document/10032141 A Pareto Optimization Framework for CoISAC ].
-- Physics-Informed Deep Learnings with Performance Guarantees
--- e.g., [https://arxiv.org/abs/2301.03377 ML for Large-Scale Optimization], [https://arxiv.org/abs/2508.10546 Unsupervised DEQ with Performance Guarantees], [http://arxiv.org/abs/2504.10060 A Link Heterogeneous GNN for CoISAC Beamforming], [https://arxiv.org/abs/2507.20283 INN-based CSI Feedback with Information Preservation].
-- High-Dimensional Signal Processing with Applications in Wireless Communication and Sensing
--- e.g., [https://ieeexplore.ieee.org/document/8846756 User Location Tracking], [https://ieeexplore.ieee.org/document/8950409 Cooperative Localization], [https://ieeexplore.ieee.org/document/8630098 Massive MIMO Channel Tracking].
-=== System Implementations
-- Mutualistic Sensing and Communication (MuSAC)
--- e.g., [https://ieeexplore.ieee.org/document/10630982 Zero-Cost Sensory Data Acquisition via Wireless Communication], [https://ieeexplore.ieee.org/document/10095155 CSI Feedback with Hidden Semantic Information Transfer]. 
-~~~
+== Journals
 
-== Journal Paper
-#. *L. Lian* and J. Qin, "Data-Aware Beamforming for Support Vector Machine Enabled Integrated Sensing and Communication", IEEE Transactions on Wireless Communications, 2023. (/In preparation/)
-#. P. Fang and *L. Lian*, “Joint Channel Estimation and Sensing in RIS-Assisted ISAC System,” IEEE Transactions on Signal Processing, 2022. 
-#. R. Peng, P. Gao, *L. Lian* and J. You, "Multi-User Localization and Tracking with Spatiotemporal Correlation in Multi-RIS-Assisted Systems," IEEE Signal Processing Letters, 2024. (/Under Review/)
-#. P. Gao, *L. Lian* and J. Yu, "A Robust Minimax Approach to Wireless Multi-path Area Positioning in RIS-Assisted mmWave Systems," IEEE Transactions on Communications, 2024. (/Under Review/)
-#. P. Gao, *L. Lian* and J. Yu, "Localization and Tracking for Correlated Users in Multi-RIS-assisted Systems: Fundamental Limits and Interpretations," IEEE Transactions on Signal Processing, 2024.(/Under Review/)
-#. Y. Xu and *L. Lian*, “Adaptive Multi-User Channel Estimation Based on Contrastive Feature Learning,” IEEE Communication Letter, 2023. (/Under Review, [https://% arxiv.org/abs/2303.02960 Paper Link]/)
-# S. Ji, L. Lian and Y. Wang,“MuSAC: Mutualistic Sensing and Communication for Mobile Crowdsensing,” in IEEE Transactions on Mobile Computing, 2025. (/To be submitted/)
-. S. Ji, Y. Wang and *L. Lian*, "MuSAC: Toward Zero-Cost Sensory Data Acquisition via Wireless Communication", in IEEE Transactions on Mobile Computing, 2025. (/Under Review/)
-. R. Cheng, *L. Lian*, K. Huang and S. Zhang,“Data-Driven Link Blockage Prediction for Proactive Beamforming in Dynamic mmWave Systems,” in IEEE Transactions on Communications, 2025. (/Under Review/)
-. H. Tian and *L. Lian*, “Unsupervised Deep Equilibrium Model Learning for Large-Scale Channel Estimation with Performance Guarantees,” in IEEE Transactions on Signal Processing, 2025. (/Under Review, [https://arxiv.org/abs/2508.10546 Paper Link]/)
-. H. Tian, *L. Lian*, J. Cao and S. Ji, “Information-Preserving CSI Feedback: Invertible Networks with Endogenous Quantization and Channel Error Mitigation,” in IEEE Transactions on Wireless Communications, 2025. (/Under Review, [https://arxiv.org/abs/2507.20283 Paper Link]/）
-. *L. Lian*, C. Bai, Y. Xu, H. Dong, R. Cheng and S. Zhang,“Learning to Beamform for Cooperative Localization and Communication:  A Link Heterogeneous GNN-Based Approach,” in IEEE Transactions on Wireless Communications, 2025. (/Under Review, [http://arxiv.org/abs/2504.10060 Paper Link]/）
-. P. Gao, *L. Lian* and Y. Shen, "Localization and Tracking for Cooperative Users in Multi-RIS-assisted Systems: Theoretical Analysis and Principles of Interpretations," IEEE Transactions on Information Theory, 2025. (/Under Review, [https://arxiv.org/abs/2504.04791 Paper Link]/)
-. Q. Lu and *L. Lian*, “Distributed Complete Dictionary Learning via l4-Norm Maximization,” IEEE Transactions on Signal Processing, 2025. (/Under Review, [https://arxiv.org/abs/2211.03628 Paper Link]/)
-. L. Li, *L. Lian*, S. Zhang, et al., "Physics-Motivated Large Scale Channel Decoupling and Estimation in Intercell Interfered Environments," IEEE Wireless Communication Letters, 2025. (/Accepted/）
-. H. Su, *L. Lian*, K. Huang and S. Zhang, "A Three-Stage Physics-Driven Transmission Scheme For Integrated Sensing and Communication Systems With Noisy Angular Information," in IEEE Wireless Communications Letters, 2025. (/Accepted/）
-. J. Qin and *L. Lian*, “Data-Aware Beamforming for Integrated Sensing and Communication Enabled AI Systems," in IEEE Wireless Communications Letters, 2025.(/Accepted/）
-. J. Huang, *L. Lian*, D. Wen, et al.,“Dynamic UAV-Assisted Cooperative Edge AI Inference," in IEEE Transactions on Wireless Communications, vol. 24, no. 1, pp. 615-628, Jan. 2025. 
-. J. Jiang, *L. Lian*, T. Yu, et al., “A Novel Dual-Driven Channel Estimation Scheme for Spatially Non-Stationary Fading Environments," in IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7027-7042, July 2024. 
-. S. Hu, *L. Lian*, H. Qian, et al, "Blind Multi-Level MAP Detection With Phase Noise Compensation in MIMO-OFDM Systems," in IEEE Transactions on Communications, vol. 72, no. 3, pp. 1596-1611, March 2024.
-. Y. Shi, *L. Lian*, Y. Shi, Z. Wang, Y. Zhou, L. Fu, L. Bai, J. Zhang and W. Zhang, "Machine Learning for Large-Scale Optimization in 6G Wireless Networks," IEEE Communications Surveys & Tutorials, 2023. (/[https://arxiv.org/abs/2301.03377 Paper Link]/)
-. P. Gao,  *L. Lian*  and J. Yu, "Cooperative ISAC With Direct Localization and Rate-Splitting Multiple Access Communication: A Pareto Optimization Framework," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1496-1515, May 2023, doi: 10.1109/JSAC.2023.3240714.
-. P. Gao, *L. Lian* and J. Yu, "Wireless Area Positioning in RIS-Assisted mmWave Systems: Joint Passive and Active Beamforming Design," in IEEE Signal Processing Letters, vol. 29, pp. 1372-1376, 2022.
-. *L. Lian* and V. K. N. Lau, “Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
-. *L. Lian*, A. Liu and V. K. N. Lau, “User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference,” in IEEE Transactions on Signal Processing, vol.67, no. 21, pp. 5628-5642, 1 Nov.1, 2019.
-. *L. Lian*, A. Liu and V. K. N. Lau, “Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking,” in IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2007-2021, 15 April 15, 2019. 
-. *L. Lian*, A. Liu and V. K. N. Lau, “Weighted LASSO for Sparse Recovery With Statistical Prior Support Information,” in IEEE Transactions on Signal Processing, vol. 66, no. 6, pp. 1607-1618, 15 March15, 2018.
-. A. Liu, G. Liu, *L. Lian*, V. Lau and M. Zhao, “Robust Recovery of Structured Sparse Signals with Uncertain Sensing Matrix: A Turbo-VBI Approach,” in IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 3185-3198, May 2020.
-. A. Liu, *L. Lian*, V. Lau, G. Liu and M. Zhao, “Cloud-Assisted Cooperative Localization for Vehicle Platoons: A Turbo Approach,” in IEEE Transactions on Signal Processing, vol. 68, pp. 605-620, 2020.
-. A. Liu, *L. Lian*, and V. K. N. Lau, “Downlink Channel Estimation in Multiuser Massive MIMO With Hidden Markovian Sparsity,” in IEEE Transactions on Signal Processing, vol. 66, no. 18, pp. 4796-4810, 15 Sept.15, 2018.
+. Ye Xue*#, Yiheng Wang*, Shutao Zhang, Tsung-Hui Chang, "GNN-based Structured Bayesian Inference for Multi-grid Localized Statistical Channel Modeling", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3547705. [JCR Q1]
+. Shutao Zhang, Ye Xue#, Zhiwei Tang, Hao Wang, Chao Shen, Qingjiang Shi, Tsung-Hui Chang, "Robust Network Optimization by Deep Generative Models and Stochastic Optimization", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3551316. [JCR Q1]
+. Ye Xue, Vincent K. N. Lau, "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation", IEEE Transactions on Signal Processing, 2023. doi: 10.1109/TSP.2023.3284381. [JCR Q1]
+. Ye Xue, Liqun Su, Vincent K. N. Lau, "FedOComp: Two-Timescale Online Gradient Compression for Over-the-Air Federated Learning", IEEE Internet of Things Journal, vol. 9, no. 19, pp. 19330–19345, 2022. doi: 10.1109/JIOT.2022.3165268. [JCR Q1]
+. Ye Xue, Vincent K. N. Lau, "Online Orthogonal Dictionary Learning Based on Frank–Wolfe Method", IEEE Transactions on Neural Networks and Learning Systems, 2021. doi: 10.1109/TNNLS.2021.3131181. [JCR Q1]
+. Ye Xue, Vincent K. N. Lau, Songfu Cai, "Efficient Sparse Coding using Hierarchical Riemannian Pursuit", IEEE Transactions on Signal Processing, vol. 69, pp. 4069–4084, 2021. doi: 10.1109/TSP.2021.3093769. [JCR Q1]
+. Ye Xue, Yifei Shen, Vincent K. N. Lau, Jun Zhang, Khaled B. Letaief, "Blind Data Detection in Massive MIMO via l3-norm Maximization over the Stiefel Manifold", IEEE Transactions on Wireless Communications, vol. 20, no. 2, pp. 1411–1424, 2021. doi: 10.1109/TWC.2020.3033699. [JCR Q1]
+. Ye Xue*, Xuanyu Zheng*, Vincent K. N. Lau, "Line-of-Sight MIMO for High Capacity Millimeter Wave Backhaul in FDD Systems", Journal of Communications and Information Networks, vol. 5, no. 2, pp. 177–193, 2020. [Cover paper]
+. Ye Xue, Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang, "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink", Journal of Signal Processing Systems, 2018, 90:1453–1467.
+. Yeqing Qiu, Chengpiao Huang, Ye Xue#, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, "Relaxation-free Min-k-partition for PCI Assignment in 5G Networks", IEEE Transactions on Signal Processing, 2025. doi: 10.1109/TSP.2025.3604409. [JCR Q2]
+. Shutao Zhang, Ye Xue, Qingjiang Shi, Tsung-Hui Chang, "Statistical Channel Modeling Methods in Wireless Network Twinning: Current Status and Frontiers", ZTE Technology Journal, 2023, 29(3): 26–31. DOI: 10.12142/ZTETJ.202303006
+. Chuan Zhang, Jiejun Jin, Ye Xue, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You, "Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO", IEEE Transactions on Vehicular Technology, vol. 69, no. 5, pp. 4663–4676, 2020. doi: 10.1109/TVT.2020.2975878.
+. Ziyao Wang, Congyue Zhang, Ye Xue, Zhijie Dong, Ziyuan Li, Yingzi Tan, "Design of a Transmission System for Video and Control Information Fusion in Micro Robotics", Industrial Control Computer, 2016(7): 53–55, 2016.
 
-== Conference Paper
-. H. Gao, B. Zhou, *L. Lian*, Z. Wei, X. Li and Y. Zhuang, "Self-Interference-Alleviated Beamforming towards 6G Integrated Sensing and Communication," IEEE International Conference on Communications (ICC)，2025. 
-. M. Yuan, *L. Lian* and S. Ji, "Physics-Informed Data Augmentation for CSI Data-Limited Deep Learning Driven Communication Tasks," IEEE International Conference on Communications (ICC) Workshop, 2025. 
-. H. Tian and *L. Lian*, "GSURE-Based Unsupervised Deep Equilibrium Model Learning for Large-Scale Channel Estimation," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4938-4943.
-. X. Fang and *L. Lian*,"Catalyzing Near-field Localization Through RIS Assistance: Optimization of Hybrid Operational Paradigms," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4448-4453.
-. S. Ji, *L. Lian*, Y. Zheng, et al., "MuSAC: Mutualistic Sensing and Communication for Mobile Crowdsensing," 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), Jersey City, NJ, USA, 2024, pp. 243-254.
-. Y. Xu and *L. Lian*, "Channel Estimation Based on Contrastive Feature Learning with Few Labeled Samples," 2023 IEEE Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2023.
-. *L. Lian*  and B. Wang, "Regularized Deep Generative Model Learning for Real-Time Massive MIMO Channel Tracking," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5.
-. J. Cao, *L. Lian*, Y. Mao and B. Clerckx, "Adaptive CSI Feedback with Hidden Semantic Information Transfer," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5.
-. P. Gao and *L. Lian*, “Efficiency of Spatial Correlation for Multi-RIS-Assisted Multi-User Direct Localization,” IEEE International Conference on Communications (ICC), 2023. 
-. K. Zhao, Y. Mao, Z. Yang, *L. Lian* and B. Clerckx, "Reconfigurable Intelligent Surfaces Empowered Cooperative Rate Splitting with User Relaying," International Symposium on Wireless Communication Systems (ISWCS), 2022.
-. J. Cao and *L. Lian*, “Information Bottleneck Based Joint Feedback and Channel Learning in FDD Massive MIMO Systems,” 2022 IEEE Global Communications Conference, 2022. 
-. B. Wang and *L. Lian*, “Online Compressive Channel Learning Using Untrained Deep Generative Model,” in 2022 IEEE 95rd Vehicular Technology Conference (VTC2022-Spring), 2022.
-. P. Gao, *L. Lian* and J. Yu, "Optimal Passive Beamforming for Cooperative Localization with RIS-Assisted mmWave systems", in IEEE Wireless communications and Networking Conference Workshop (WNCNW), Austin, TX, USA, 2022, pp. 1-6.
-. S. Huang, P. Zhang, Y. Mao, *L. Lian*, Y. Wu and Y. Shi, "Wireless Federated Learning over MIMO Networks: Joint Device Scheduling and Beamforming Design", in IEEE International Conference on Communications  Workshops (ICC Workshops), Seoul, South Korea, 2022, pp. 1-6.  
-. P. Fang and *L. Lian*, “Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” IEEE International Conference on Communications (ICC), Seoul, South Korea, 2022, pp. 1-6.  
-. *L. Lian* and V. K. N. Lau, “Compressive Channel Estimation in mmWave Systems with Flexible Hybrid Beamforming Architecture,” 2020 IEEE International Conference on Communications.
-. G. Liu, A. Liu, *L. Lian*, V. Lau and M. Zhao, “Sparse Bayesian Inference Based Direct Localization for Massive MIMO,” 2019 IEEE 90th Vehicular Technology Conference (VTC2019 Fall), Honolulu, HI, USA, 2019, pp. 1-5.
-. *L. Lian*, A. Liu and V. K. N. Lau, “Optimal-Tuned Weighted LASSO for Massive MIMO Channel Estimation with Limited RF Chains,” GLOBECOM 2017 - 2017 IEEE Global Communications Conference, Singapore, 2017, pp. 1-6.
-. Liu, V. Lau, M. L. Honig and *L. Lian*, “Compressive RF training and channel estimation in massive MIMO with limited RF chains,” 2017 IEEE International Conference on Communications (ICC), Paris, 2017, pp. 1-6.
+== Conferences and Workshops
+
+. Yeqing Qiu, Ye Xue#, Zhipeng Jiang, Qingjiang Shi, "Relaxed Gradient Projection for PCI Assignment in 5G Network", The 14th IEEE/CIC International Conference on Communications in China (ICCC 2025), accepted.
+. Xinyu Qin, Shutao Zhang, Bingsheng Peng, Ye Xue#, Chao Shen, Qiliang Xie, Yuk Ngai Lee, Tsung-Hui Chang, "A Deep Learning Framework for Large-Scale Localized Statistical Channel Modeling", IEEE GLOBECOM 2025 Workshop, accepted.
+. Yiheng Wang, Shutao Zhang, Ye Xue#, Tsung-Hui Chang, "Multi-Modal Neural Radio Radiance Field for Localized Statistical Channel Modelling", IEEE GLOBECOM 2025 Workshop, accepted.
+. Ye Xue*, Yifei Shen*, Jun Zhang, Khaled B. Letaief, Vincent K. N. Lau, "Complete Dictionary Learning via lp-norm Maximization", Proc. Conference on Uncertainty in Artificial Intelligence (UAI), PMLR vol. 124, 2020, pp. 280–289. [Cited by UCB textbook "High-dimensional data analysis with low-dimensional models"]
+. Ye Xue, An Liu, Yang Li, Qingjiang Shi, Vincent K. N. Lau, "Joint Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC", IEEE International Conference on Communications (ICC), Rome, 2023.
+. Duanyi Yao, Songze Li, Ye Xue, Jin Liu, "Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit", International Conference on Learning Representations (ICLR), 2024.
+. Ye Xue, Yiheng Wang, Shutao Zhang, Tsung-Hui Chang, "RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation", in submission to ICML 2025.
+. Y. Wang, S. Zhang, Ye Xue#, T. Yu, Q. Shi, T.-H. Chang, "Neural Enhanced Variational Bayesian Inference on Graphs for Localized Statistical Channel Modeling", IEEE ICC 2024, Denver, pp. 342–347, 2024. doi: 10.1109/ICC51166.2024.10622313.
+. X. Ning, S. Zhang, Ye Xue#, X. Zheng, Q. Shi, T.-H. Chang, "Learning Beams Adaptive to the Environment: An RSRP-based Codebook Design", IEEE SPAWC 2023, Shanghai, pp. 521–525, 2023. doi: 10.1109/SPAWC53906.2023.10304486.
+. Ye Xue, Chuan Zhang, Shunqing Zhang, Zhizhen Wu, Xiaohu You, "Steepest Descent Method Based Soft-Output Detection for Massive MIMO Uplink", IEEE SiPS 2016, Dallas, pp. 273–278, 2016. doi: 10.1109/SiPS.2016.55.
+. Ye Xue, Chuan Zhang, Shunqing Zhang, Xiaohu You, "A Fast-Convergent Pre-conditioned Conjugate Gradient Detection for Massive MIMO Uplink", IEEE DSP 2016, Beijing, pp. 331–335, 2016. doi: 10.1109/ICDSP.2016.7868573.
+. Jiejun Jin, Ye Xue, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang, "A Split Pre-conditioned Conjugate Gradient Method for Massive MIMO Detection", IEEE SiPS 2017, Lorient, pp. 1–6, 2017. doi: 10.1109/SiPS.2017.8109972.
+. Yufeng Yang, Ye Xue, Xiaohu You, Chuan Zhang, "An Efficient Conjugate Residual Detector for Massive MIMO Systems", IEEE SiPS 2017, Lorient, pp. 1–6, 2017. doi: 10.1109/SiPS.2017.8109975.
+. Zhizhen Wu, Ye Xue, Xiaohu You, Chuan Zhang, "Hardware Efficient Detection for Massive MIMO Uplink with Parallel Gauss–Seidel Method", IEEE DSP 2017, London, pp. 1–5, 2017. doi: 10.1109/ICDSP.2017.8096142.
+. Zhizhen Wu, Chuan Zhang, Ye Xue, Shugong Xu, Xiaohu You, "Efficient Architecture for Soft-Output Massive MIMO Detection with Gauss–Seidel Method", IEEE ISCAS 2016, Montreal, pp. 1886–1889, 2016. doi: 10.1109/ISCAS.2016.7538940.
+. Ziyao Wang, Ye Xue, Zhijie Dong, Ziyuan Li, Congyue Zhang, Yingzi Tan, "A Scheme of Transmission System in Micro Robotics Based on Combined Information Data", 2016 International Symposium on Advances in Electrical, Electronics and Computer Engineering, 2016, pp. 68–74. doi: 10.2991/isaeece-16.2016.15.
+. Wei Cheng, Ye Xue, Chuan Liu, Ying-zi Tan, "An Efficient Method of Recognition Human Motion in Human-Robot Interaction System", Electrical Engineering and Automation, pp. 785–793. doi: 10.1142/9789813220362_0094.
+
+== Selected Patents
+
+. Shutao Zhang, Xinzhi Ning, Xi Zheng, Qingjiang Shi, Tsung-Hui Chang, Ye Xue, Yang Li, Zhi-Quan Luo, "Wireless Communication Channel Evaluation: Methods and Associated System Architecture", CN Patent, CN116155412A, published May 23, 2023.
+. Ye Xue, Yiheng Wang, Shutao Zhang, Tianshu Yu, Zhaohui Yang, Qingjiang Shi, Tsung-Hui Chang, "Wireless Environment Prediction System: Method, Apparatus, Electronic Device, and Computer-Readable Storage Medium", CN Patent, ZL 2024 1 0106374.5, issued May 17, 2024.
+. Ma Mengyao, Ye Xue, Vincent Kin Nang Lau, "Data Processing Methods and Related Equipment", PCT Publication WO2024/060013, publication date Jan 1, 2025.
+. Chuan Zhang, Jiejun Jin, Ye Xue, Xiaohu You, "A Generic Descent Search Method for Signal Detection in Massive MIMO Systems", CN Patent, ZL201810479945.4, issued Feb 26, 2021.
+. Chuan Zhang, Ye Xue, Xiaohu You, "MIMO Linear Iteration Detection Method under Non-ideal Communication Channels", CN Patent, ZL201610669854.8, issued Jun 21, 2019.
+
+== Citation Notes
+
+Equal contribution is marked by "*"; corresponding author by "#".
