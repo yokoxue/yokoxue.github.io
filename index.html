@@ -65,31 +65,26 @@ Personal Site: <a href="https://yokoxue.github.io/" target="_blank" rel="noopene
 
 <h2>Introduction</h2>
 <p>
-I am currently a tenure-track associate professor at the School of Intelligent Systems Engineering, Sun Yat-sen University (SYSU). Before joining SYSU, I was a   Research Scientist at the Shenzhen Research Institute of Big Data and an Adjunct Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST), and my B.Eng. in Communication Engineering from Southeast University  (Chien‑Shiung Wu Honor College, Advanced Class). My research spans  sparse/efficient AI, physically grounded world model, and AI for mathematical optimization.
+I am currently a tenure-track associate professor at the School of Intelligent Systems Engineering, Sun Yat-sen University (SYSU). Before joining SYSU, I was a Research Scientist at the Shenzhen Research Institute of Big Data and an Adjunct Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST), and my B.Eng. in Communication Engineering from Southeast University (Chien‑Shiung Wu Honor College, Advanced Class). My research spans sparse/efficient AI, physically grounded field world models, and AI for mathematical optimization.
 </p>
 
 <h2>Research</h2>
-<p class="tagline">FieldMind: a physics-grounded world model for physical fields (EM, flow/turbulence, acoustics, optics, thermal) and real-time decision making.</p>
-<p>
-Our vision is Smart/Intelligent Physical Modeling and Decision Making—interpretable, editable, and deployable systems that understand the physical world and act in it safely and efficiently. Unlike mainstream visual world models centered on appearance and geometry, our focus is the governing <b>physical fields</b> that drive communication, transport, and control.
-</p>
-
-<p>
-We organize our work as a closed loop around FieldMind:
-</p>
+<p class="tagline">We work on sparse/efficient AI,  World Models (I call it FieldMind）  for electromagnetics/wireless, and learning-based optimization (L2O) for real-world communication and network decisions.</p>
 
 <ul>
-  <li><p><b>Seeing the field world: Multimodal Physical Field Modeling (EM-first)</b><br />
-  We fuse geometry/materials (BIM/point clouds/maps), context (vision/language/IMU/GNSS), and <b>field measurements</b> (RF sweeps/arrays for EM; probes/sensors for flow, acoustics, thermal) into a unified FieldMind model. We use 3D Gaussian Splatting (3DGS), NeRF/variants, VGGT and cross-modal transformers as alignment/representation tools, coupled with <b>PDE and boundary consistency</b>, constitutive relations, and material priors. The model quantifies uncertainty and supports <i>editable inversion</i>, and naturally extends from EM/wireless to turbulence/fluids, acoustics, optics, and thermal domains.</p></li>
+  <li><p><b>Field World Models (FM) for Wireless</b><br />
+  Physically grounded, data-driven models of radio/EM environments that fuse geometry and materials (BIM, point clouds, maps), contextual signals (vision/language, IMU, GNSS), and RF measurements (sweeps/arrays). We combine neural representations (3DGS/NeRF variants, diffusion/energy models, GNNs, neural operators such as FNO/DeepONet/GNO) with PDE and boundary consistency, constitutive relations, and structured sparsity/low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement for localized statistical channel modeling and environment-aware communication.</p></li>
 
-  <li><p><b>Making it compact and complete: Sparse/Low-Dimensional Structures</b><br />
-  Multimodal field data are high-dimensional and often partially observed. We exploit <b>structured sparsity</b>, low-rank/tensorized representations, and <b>sparse latent diffusion</b>/energy models to achieve: (i) edge-efficient compression and fast field reconstruction with calibrated uncertainty; (ii) principled <b>field completion</b> in unsensed/occluded regions via physics-aware generative priors; (iii) reliability and certifiability for downstream use. The result is a lightweight, robust, and transferable field representation.</p></li>
+  <li><p><b>Sparse and Efficient AI</b><br />
+  Structured sparsity, low-rank and tensorization across data/features/models/gradients with unified compression/distillation for edge–cloud collaboration and federated training. HW/SW co-acceleration (CPU/GPU/FPGA) enables reliable on-device deployment in wireless applications.</p></li>
 
-  <li><p><b>Turning understanding into action: Learning to Optimize with HW/SW Co-Design</b><br />
-  We tightly couple FieldMind with <b>differentiable, learning-augmented optimizers</b> for real-time, certifiable planning and control—multi-UAV/UAM coordination, spectrum/beam/power scheduling, and site–trajectory co-design under interference, airspace, and environmental constraints. Through algorithm–system co-design (C++/CUDA/FPGA, federated/edge execution), we map structural sparsity into solvers and hardware for end-to-end speed/energy gains and rapid replanning.</p></li>
+  <li><p><b>Learning-based Optimization (L2O)</b><br />
+  Differentiable, learning-augmented solvers (RL/GNN/neural combinatorial optimization) operating on FWM for constrained decisions: site placement, beam/power/spectrum allocation, routing/formation planning. We pursue feasibility guarantees, learned warm-starts, fast cross-scenario adaptation, and edge/federated execution for real-time, certifiable decisions.</p></li>
 </ul>
 
-
+<p>
+Recently, I have focused on building FieldMind (our FM instantiation), which couples physics-informed field representations with algorithm–system co-design (C++/CUDA/FPGA; edge/federated) to map structural sparsity into solvers and hardware, delivering end-to-end speed/energy gains and rapid replanning.
+</p>
 
 <h2>Current Openings</h2>
 <div class="infoblock">
@@ -149,7 +144,6 @@ We organize our work as a closed loop around FieldMind:
 </table>
 </body>
 </html>
-
 
 
 
