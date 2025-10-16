@@ -51,39 +51,44 @@ blockquote.note { border-left:4px solid #0a7; margin:0.6em 0; padding:0.4em 0.8e
 <td align="left">
 <p>
 
-<b>Research Scientist (Research Associate)</b><br />
-<a href="https://www.sribd.cn/" target="_blank" rel="noopener">Shenzhen Research Institute of Big Data (SRIBD)</a><br />
-<b>Assistant Professor (Adjunct)</b><br />
-School of Data Science (SDS), <a href="https://www.cuhk.edu.cn/" target="_blank" rel="noopener">The Chinese University of Hong Kong, Shenzhen</a><br />
-Email: <a href="mailto:xueye@cuhk.edu.cn">xueye@cuhk.edu.cn</a><br />
+<b>Tenure-track Associate Professor, Ph.D. Advisor</b><br />
+<a href="https://ise.sysu.edu.cn/" target="_blank" rel="noopener">School of Intelligent Systems Engineering</a><br />
+<a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a><br />
+Email: <a href="mailto:yokoyexue@gmail.com">okoyexue@gmail.com</a><br />
 Personal Site: <a href="https://yokoxue.github.io/" target="_blank" rel="noopener">https://yokoxue.github.io/</a>
 </p>
 <p>
 <a class="btn" href="https://github.com/yokoxue" target="_blank" rel="noopener">GitHub</a>
-<a class="btn" href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
-<a class="btn" href="https://dblp.org/" target="_blank" rel="noopener">DBLP</a>
-<a class="btn" href="https://orcid.org/" target="_blank" rel="noopener">ORCID</a>
+<a class="btn" href="https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
 </p>
 </td></tr></table>
 
 <h2>Introduction</h2>
 <p>
-I am a Research Scientist at the Shenzhen Research Institute of Big Data and an Adjunct Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, and my B.Eng. in Communication Engineering from Southeast University in 2017 (Chien‑Shiung Wu Honor College, Advanced Class). My research spans  sparse/efficient AI, physically grounded world model, and AI for mathematical optimization.
+I am currently a tenure-track associate professor at the School of Intelligent Systems Engineering, Sun Yat-sen University (SYSU). Before joining SYSU, I was a   Research Scientist at the Shenzhen Research Institute of Big Data and an Adjunct Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I received my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST), and my B.Eng. in Communication Engineering from Southeast University  (Chien‑Shiung Wu Honor College, Advanced Class). My research spans  sparse/efficient AI, physically grounded world model, and AI for mathematical optimization.
 </p>
 
 <h2>Research</h2>
+<p class="tagline">FieldMind: a physics-grounded world model for physical fields (EM, flow/turbulence, acoustics, optics, thermal) and real-time decision making.</p>
 <p>
-My group builds Field World Models (FWM): physically grounded, data-driven models of real-world fields that fuse geometry, materials, and multimodal measurements. We aim to deliver environment-aware communication and decision-making that are interpretable, editable, and deployable. While our current focus is electromagnetics/wireless, the same methodology naturally extends to turbulence, acoustics, optics, and thermal domains.
+Our vision is Smart/Intelligent Physical Modeling and Decision Making—interpretable, editable, and deployable systems that understand the physical world and act in it safely and efficiently. Unlike mainstream visual world models centered on appearance and geometry, our focus is the governing <b>physical fields</b> that drive communication, transport, and control.
 </p>
 
-<p>Our work spans three tightly coupled thrusts:</p>
+<p>
+We organize our work as a closed loop around FieldMind:
+</p>
+
 <ul>
-  <li><p><b>Field World Model (FWM)</b>: Learn spatial fields and dynamics from multimodal data (e.g., BIM/point clouds/maps, vision/language, IMU/GNSS, RF sweeps/arrays). We combine neural and physics-based components (NeRF/3DGS, diffusion/energy models, GNNs, neural operators such as FNO/DeepONet/GNO) with PDE and boundary consistency, and structured sparsity/low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement.</p></li>
+  <li><p><b>Seeing the field world: Multimodal Physical Field Modeling (EM-first)</b><br />
+  We fuse geometry/materials (BIM/point clouds/maps), context (vision/language/IMU/GNSS), and <b>field measurements</b> (RF sweeps/arrays for EM; probes/sensors for flow, acoustics, thermal) into a unified FieldMind model. We use 3D Gaussian Splatting (3DGS), NeRF/variants, VGGT and cross-modal transformers as alignment/representation tools, coupled with <b>PDE and boundary consistency</b>, constitutive relations, and material priors. The model quantifies uncertainty and supports <i>editable inversion</i>, and naturally extends from EM/wireless to turbulence/fluids, acoustics, optics, and thermal domains.</p></li>
 
-  <li><p><b>Sparse and Efficient AI</b>: Develop structured sparsity, low-rank, and tensorization methods, with unified compression/distillation across data, features, models, and gradients. We enable edge–cloud collaboration, federated training, and HW/SW co-acceleration (CPU/GPU/FPGA) for reliable on-device deployment.</p></li>
+  <li><p><b>Making it compact and complete: Sparse/Low-Dimensional Structures</b><br />
+  Multimodal field data are high-dimensional and often partially observed. We exploit <b>structured sparsity</b>, low-rank/tensorized representations, and <b>sparse latent diffusion</b>/energy models to achieve: (i) edge-efficient compression and fast field reconstruction with calibrated uncertainty; (ii) principled <b>field completion</b> in unsensed/occluded regions via physics-aware generative priors; (iii) reliability and certifiability for downstream use. The result is a lightweight, robust, and transferable field representation.</p></li>
 
-  <li><p><b>Learning-based Optimization (L2O) </b>: Differentiable, learning-augmented solvers tightly coupled with FWM for real-time, certifiable decision-making and control. Focus: multi-UAV/UAM tasking and fleet coordination, site–trajectory co-design, and spectrum/beam/power scheduling under interference and airspace rules, plus 3D routing/formation with weather–terrain–RF awareness. Features: feasibility/safety guarantees, learned warm-starts for rapid re-planning, and fast cross-scenario adaptation on edge–cloud.</p></li>
+  <li><p><b>Turning understanding into action: Learning to Optimize with HW/SW Co-Design</b><br />
+  We tightly couple FieldMind with <b>differentiable, learning-augmented optimizers</b> for real-time, certifiable planning and control—multi-UAV/UAM coordination, spectrum/beam/power scheduling, and site–trajectory co-design under interference, airspace, and environmental constraints. Through algorithm–system co-design (C++/CUDA/FPGA, federated/edge execution), we map structural sparsity into solvers and hardware for end-to-end speed/energy gains and rapid replanning.</p></li>
 </ul>
+
 
 
 <h2>Current Openings</h2>
@@ -92,10 +97,9 @@ My group builds Field World Models (FWM): physically grounded, data-driven model
 <p><i>We recruit PhD/Master/Research Assistants/Interns with strengths in MATH (optimization/probability/geometry), AI (deep/graph/generative modeling,3DGS/Nerf, and neural operators), or SYSTEMS (C++/CUDA/FPGA/robotics/UAV/wireless). We value curiosity, hands-on ability, reproducibility, and cross-disciplinary collaboration.</i></p>
 </div></div>
 <ul>
-<li><p>Positions: PhD, Master, Research Assistants, Visiting students/interns (rolling).</p></li>
+<li><p>Positions: Postdoc Fellow, PhD, Master, Research Assistants (rolling).</p></li>
 <li><p>Application: CV, transcripts, representative work (papers/code/demos/competitions); optional personal site or GitHub.</p></li>
 <li><p>Email subject: <code>Apply-Name-Track(A/B/C)-StartTime</code></p></li>
-<li><p>Contact: <a href="mailto:xueye@cuhk.edu.cn">xueye@cuhk.edu.cn</a></p></li>
 </ul>
 
 <hr class="sep" />
@@ -113,7 +117,7 @@ My group builds Field World Models (FWM): physically grounded, data-driven model
 
 <h2>Funding</h2>
 <ul class="tight">
-  <li>NSFC Young Scientists Fund (62301334), 2024–2026, PI.</li>
+  <li>NSFC Young Scientists Fund (62301334), 2024–2026, PI. </li>
   <li>National Key R&amp;D Program of China (2023YFB2904800), 2023–2026, Sub-project PI.</li>
   <li>SRIBD Project (J00220230002), 2023–2024, PI.</li>
   <li>National Key R&amp;D Program of China (2022YFA1003900), 2022–2027, Key member.</li>
@@ -145,6 +149,7 @@ My group builds Field World Models (FWM): physically grounded, data-driven model
 </table>
 </body>
 </html>
+
 
 
 
