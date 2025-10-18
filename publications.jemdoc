@@ -4,9 +4,9 @@
 
 == Journals
 
-. Yiheng Wang*,Ye Xue#, Shutao Zhang, Tsung-Hui Chang, "GNN-based Structured Bayesian Inference for Multi-grid Localized Statistical Channel Modeling", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3547705. [JCR Q1]
-. Shutao Zhang, Ye Xue#, Zhiwei Tang, Hao Wang, Chao Shen, Qingjiang Shi, Tsung-Hui Chang, "Robust Network Optimization by Deep Generative Models and Stochastic Optimization", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3551316. [JCR Q1]
-. Yeqing Qiu, Chengpiao Huang, Ye Xue#, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, "Relaxation-free Min-k-partition for PCI Assignment in 5G Networks", IEEE Transactions on Signal Processing, 2025. doi: 10.1109/TSP.2025.3604409. [JCR Q2]
+. Yiheng Wang*,Ye Xue†, Shutao Zhang, Tsung-Hui Chang, "GNN-based Structured Bayesian Inference for Multi-grid Localized Statistical Channel Modeling", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3547705. [JCR Q1]
+. Shutao Zhang, Ye Xue†, Zhiwei Tang, Hao Wang, Chao Shen, Qingjiang Shi, Tsung-Hui Chang, "Robust Network Optimization by Deep Generative Models and Stochastic Optimization", IEEE Transactions on Wireless Communications, 2025. doi: 10.1109/TWC.2025.3551316. [JCR Q1]
+. Yeqing Qiu, Chengpiao Huang, Ye Xue†, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, "Relaxation-free Min-k-partition for PCI Assignment in 5G Networks", IEEE Transactions on Signal Processing, 2025. doi: 10.1109/TSP.2025.3604409. [JCR Q2]
 . Ye Xue, Vincent K. N. Lau, "Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation", IEEE Transactions on Signal Processing, 2023. doi: 10.1109/TSP.2023.3284381. [JCR Q1]
 . Ye Xue, Liqun Su, Vincent K. N. Lau, "FedOComp: Two-Timescale Online Gradient Compression for Over-the-Air Federated Learning", IEEE Internet of Things Journal, vol. 9, no. 19, pp. 19330–19345, 2022. doi: 10.1109/JIOT.2022.3165268. [JCR Q1]
 . Ye Xue, Vincent K. N. Lau, "Online Orthogonal Dictionary Learning Based on Frank–Wolfe Method", IEEE Transactions on Neural Networks and Learning Systems, 2021. doi: 10.1109/TNNLS.2021.3131181. [JCR Q1]
@@ -20,15 +20,15 @@
 
 == Conferences and Workshops
 
-. Yeqing Qiu, Ye Xue#, Zhipeng Jiang, Qingjiang Shi, "Relaxed Gradient Projection for PCI Assignment in 5G Network", The 14th IEEE/CIC International Conference on Communications in China (ICCC 2025), accepted.
-. Xinyu Qin, Shutao Zhang, Bingsheng Peng, Ye Xue#, Chao Shen, Qiliang Xie, Yuk Ngai Lee, Tsung-Hui Chang, "A Deep Learning Framework for Large-Scale Localized Statistical Channel Modeling", IEEE GLOBECOM 2025 Workshop, accepted.
-. Yiheng Wang, Shutao Zhang, Ye Xue#, Tsung-Hui Chang, "Multi-Modal Neural Radio Radiance Field for Localized Statistical Channel Modelling", IEEE GLOBECOM 2025 Workshop, accepted.
+. Yeqing Qiu, Ye Xue†, Zhipeng Jiang, Qingjiang Shi, "Relaxed Gradient Projection for PCI Assignment in 5G Network", The 14th IEEE/CIC International Conference on Communications in China (ICCC 2025), accepted.
+. Xinyu Qin, Shutao Zhang, Bingsheng Peng, Ye Xue†, Chao Shen, Qiliang Xie, Yuk Ngai Lee, Tsung-Hui Chang, "A Deep Learning Framework for Large-Scale Localized Statistical Channel Modeling", IEEE GLOBECOM 2025 Workshop, accepted.
+. Yiheng Wang, Shutao Zhang, Ye Xue†, Tsung-Hui Chang, "Multi-Modal Neural Radio Radiance Field for Localized Statistical Channel Modelling", IEEE GLOBECOM 2025 Workshop, accepted.
 . Ye Xue*, Yifei Shen*, Jun Zhang, Khaled B. Letaief, Vincent K. N. Lau, "Complete Dictionary Learning via lp-norm Maximization", Proc. Conference on Uncertainty in Artificial Intelligence (UAI), PMLR vol. 124, 2020, pp. 280–289. [Cited by UCB textbook "High-dimensional data analysis with low-dimensional models"]
 . Ye Xue, An Liu, Yang Li, Qingjiang Shi, Vincent K. N. Lau, "Joint Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC", IEEE International Conference on Communications (ICC), Rome, 2023.
 . Duanyi Yao, Songze Li, Ye Xue, Jin Liu, "Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit", International Conference on Learning Representations (ICLR), 2024.
 . Ye Xue, Yiheng Wang, Shutao Zhang, Tsung-Hui Chang, "RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation", in submission to ICML 2025.
-. Y. Wang, S. Zhang, Ye Xue#, T. Yu, Q. Shi, T.-H. Chang, "Neural Enhanced Variational Bayesian Inference on Graphs for Localized Statistical Channel Modeling", IEEE ICC 2024, Denver, pp. 342–347, 2024. doi: 10.1109/ICC51166.2024.10622313.
-. X. Ning, S. Zhang, Ye Xue#, X. Zheng, Q. Shi, T.-H. Chang, "Learning Beams Adaptive to the Environment: An RSRP-based Codebook Design", IEEE SPAWC 2023, Shanghai, pp. 521–525, 2023. doi: 10.1109/SPAWC53906.2023.10304486.
+. Y. Wang, S. Zhang, Ye Xue†, T. Yu, Q. Shi, T.-H. Chang, "Neural Enhanced Variational Bayesian Inference on Graphs for Localized Statistical Channel Modeling", IEEE ICC 2024, Denver, pp. 342–347, 2024. doi: 10.1109/ICC51166.2024.10622313.
+. X. Ning, S. Zhang, Ye Xue†, X. Zheng, Q. Shi, T.-H. Chang, "Learning Beams Adaptive to the Environment: An RSRP-based Codebook Design", IEEE SPAWC 2023, Shanghai, pp. 521–525, 2023. doi: 10.1109/SPAWC53906.2023.10304486.
 . Ye Xue, Chuan Zhang, Shunqing Zhang, Zhizhen Wu, Xiaohu You, "Steepest Descent Method Based Soft-Output Detection for Massive MIMO Uplink", IEEE SiPS 2016, Dallas, pp. 273–278, 2016. doi: 10.1109/SiPS.2016.55.
 . Ye Xue, Chuan Zhang, Shunqing Zhang, Xiaohu You, "A Fast-Convergent Pre-conditioned Conjugate Gradient Detection for Massive MIMO Uplink", IEEE DSP 2016, Beijing, pp. 331–335, 2016. doi: 10.1109/ICDSP.2016.7868573.
 . Jiejun Jin, Ye Xue, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang, "A Split Pre-conditioned Conjugate Gradient Method for Massive MIMO Detection", IEEE SiPS 2017, Lorient, pp. 1–6, 2017. doi: 10.1109/SiPS.2017.8109972.
@@ -48,4 +48,4 @@
 
 == Citation Notes
 
-Equal contribution is marked by "*"; corresponding author by "#".
+Equal contribution is marked by "*"; corresponding author by "†".
