@@ -27,29 +27,11 @@
 </div>
 <div class="infoblock">
 <div class="blockcontent">
-<p>We work on sparse<i>efficient AI,  World Models  for electromagnetics</i>wireless, and learning-based optimization (L2O) for real-world communication and network decisions. Our goal is interpretable, editable, and deployable methods that connect physics, data, and decision making.</p>
+<p>I work on   Efficient and Explainable artificial intelligence (XAI), World Models (WM) for electromagnetics/wireless, and Learning-based Optimization (L2O) for real-world communication and network decisions. Our goal is interpretable, editable, and deployable methods that connect physics, data, and decision making.</p>
 </div></div>
-<h2>World Models (WM) for Wireless</h2>
-<p>We develop physically grounded, data-driven models of radio/EM environments that fuse geometry and materials (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements (sweeps and arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models, GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement for localized statistical channel modeling and environment-aware communication.</p>
-<p>Localized statistical channel modeling</p>
-
-<ul>
-<li>
-<ul>
-<li><p>Neural radio radiance fields; structured Bayesian inference on graphs
-Physics-informed consistency</p>
-</li>
-<li><p>PDE and boundary consistency; material priors; calibrated uncertainty
-Multimodal fusion</p>
-</li>
-<li><p>Geometry/materials <tt> RF arrays </tt> contextual signals</p>
-</li>
-</ul>
-
-</li>
-</ul>
-<h2>Sparse and Efficient AI （sAI）</h2>
-<p>We design structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with unified compression and distillation for edge–cloud collaboration and federated training. HW/SW co-acceleration (CPU, GPU, FPGA) enables reliable on-device deployment in wireless applications.</p>
+<h2>Theoretical Part</h2>
+<h3>Sparse and Efficient AI</h3>
+<p>Structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with unified compression and distillation for edge–cloud collaboration and federated training. HW/SW co-acceleration (CPU, GPU, FPGA) enables reliable on-device deployment in wireless applications.</p>
 <p>Structured sparsity and low-rank modeling</p>
 
 <ul>
@@ -67,8 +49,30 @@ System efficiency</p>
 
 </li>
 </ul>
-<h2>Learning-based Optimization (L2O)</h2>
-<p>We build differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) that operate on FWM for constrained decisions with feasibility guarantees, learned warm-starts, and fast cross-scenario adaptation.</p>
+<h3>Explainable AI (XAI)</h3>
+<p>Characterize generalization bounds and convergence properties of AI methods using high-dimensional statistics and nonconvex optimization, with an emphasis on interpretability and reliability for wireless applications.</p>
+<h2>Application Part</h2>
+<h3>World Models (FM) for Radio Environment</h3>
+<p>Physically grounded, data-driven models of radio<i>EM environments that fuse geometry and materials (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements (sweeps</i>arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models, GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement for localized statistical channel modeling and environment-aware communication.</p>
+<p>Localized statistical channel modeling</p>
+
+<ul>
+<li>
+<ul>
+<li><p>Neural radio radiance fields; structured Bayesian inference on graphs
+Physics-informed consistency</p>
+</li>
+<li><p>PDE and boundary consistency; material priors; calibrated uncertainty
+Multimodal fusion</p>
+</li>
+<li><p>Geometry/materials plus RF arrays plus contextual signals</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h3>Learning-based Optimization (L2O)</h3>
+<p>Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on FM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario adaptation.</p>
 <p>Communication and RAN optimization</p>
 
 <ul>
@@ -86,8 +90,8 @@ Deployment</p>
 
 </li>
 </ul>
-<h2>FieldMind: From Representation to Decisions</h2>
-<p>FieldMind is our instantiation of WM<tt>sAI</tt>L2O coupled with algorithm–hardware co-design (C<tt></tt>, CUDA, FPGA; edge and federated) for online decision making. It maps data<i>algorithm</i>architecture structure into solvers and hardware for end-to-end speed and energy gains and rapid replanning.</p>
+<h3>FieldMind: From Representation to Decisions</h3>
+<p>FieldMind is our instantiation of FM plus sparse and efficient AI plus L2O, coupled with algorithm–hardware co-design (C<tt></tt>, CUDA, FPGA; edge and federated) for online decision making. It maps structure across data, algorithms, and architectures into solvers and hardware for </p>
 </td>
 </tr>
 </table>
