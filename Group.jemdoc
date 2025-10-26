@@ -7,20 +7,27 @@
 - Xinyu Qin ~~~ PhD Student, CUHK(SZ) SSE (Co-supervised with Prof. Tsung-Hui Chang)
 - Bingsheng Peng ~~~ PhD Student, CUHK(SZ) SSE (Co-supervised with Prof. Tsung-Hui Chang)
 
-== Former Postgraduate Students
+== Former Memebers
 - Shutao Zhang ~~~ Now a senior engineer at Huawei.
 
 == Group Photos
 
 Hiking with Yiheng and Yeqing in MacLehose Trail Section 4, Hong Kong (2025)
 
-{}{img_left}{hike_maclehose_s4_2025.jpg}{photo}{780px}{360px}{}
+<div style="overflow:auto; margin:6px 0 10px 0;">
+  <img src="hike_maclehose_s4_2025.jpg"
+       alt="Hiking with Yiheng and Yeqing in MacLehose Trail Section 4, Hong Kong (2025)"
+       style="max-width:100%; width:780px; height:auto; float:left; margin:0 12px 8px 0; border:0;" />
+  <p style="margin:0;">A hike snapshot on MacLehose Trail Section 4 — discussing WM for Radio + L2O for measurement planning and uncertainty estimation in complex terrains.</p>
+</div>
+<div style="clear:both;"></div>
 
+Gathering with Prof. Tsung-Hui Chang, Yiheng, Yeqing, Xinyu, and Bingsheng at CUHK‑Shenzhen (2025)
 
-
-
-
-Gathering with Prof. Tsung-Hui Chang, Yiheng, Yeqing, Xinyu, and Bingsheng at CUHK-Shenzhen (2025)
-
-{}{img_right}{cuhksz_gathering_2025.jpg}{photo}{700px}{360px}{}
-
+<div style="overflow:auto; margin:6px 0 10px 0;">
+  <img src="cuhksz_gathering_2025.jpg"
+       alt="Gathering with Prof. Tsung-Hui Chang, Yiheng, Yeqing, Xinyu, and Bingsheng at CUHK‑Shenzhen (2025)"
+       style="max-width:100%; width:700px; height:auto; float:right; margin:0 0 8px 12px; border:0;" />
+  <p style="margin:0;">Group meeting and photo at CUHK‑Shenzhen, discussing recent progress on statistical channel modeling, federated/edge training, and environment‑aware network optimization.</p>
+</div>
+<div style="clear:both;"></div>
