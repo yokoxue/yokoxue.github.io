@@ -1,115 +1,112 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>RESEARCH AREAS</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Research — Ye XUE</title>
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Menu</div>
-<div class="menu-item"><a href="home.html">Home</a></div>
-<div class="menu-item"><a href="aboutme.html">About&nbsp;Me</a></div>
-<div class="menu-item"><a href="research.html" class="current">Research</a></div>
-<div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="Group.html">Members and photos</a></div>
-<div class="menu-category">Others</div>
-<div class="menu-item"><a href="resources.html">Resources</a></div>
-</td>
-<td id="layout-content">
-<div id="toptitle">
-<h1>RESEARCH AREAS</h1>
-</div>
-<div class="infoblock">
-<div class="blockcontent">
-<p>I work on   Efficient and Explainable artificial intelligence (XAI), World Models (WM) for electromagnetics/wireless, and Learning-based Optimization (L2O) for real-world communication and network decisions. Our goal is interpretable, editable, and deployable methods that connect physics, data, and decision making.</p>
-</div></div>
-<h2>Theoretical Part</h2>
-<h3>Sparse and Efficient AI</h3>
-<p>Structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with unified compression and distillation for edge–cloud collaboration and federated training. HW/SW co-acceleration (CPU, GPU, FPGA) enables reliable on-device deployment in wireless applications.</p>
-<p>Structured sparsity and low-rank modeling</p>
 
-<ul>
-<li>
-<ul>
-<li><p>Compression and distillation for models and gradients
-</p>
-</li>
-<li><p>Communication-efficient training and adaptation
-</p>
-</li>
-<li><p>Algorithm–system co-design for throughput and energy gains</p>
-</li>
-</ul>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html">Ye XUE <span>薛烨</span></a>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="aboutme.html">About</a>
+      <a href="research.html" class="current">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="Group.html">Group</a>
+      <a href="resources.html">Resources</a>
+    </nav>
+  </div>
+</header>
 
-</li>
-</ul>
+<main class="wrap">
 
-  
+  <h1 class="page-title">Research Areas</h1>
 
-<h3>Explainable AI (XAI)</h3>
-<p>Principled interpretability and reliability for models: from attribution and concept-based explanations to causal and statistical guarantees, ensuring trustworthy deployment.</p>
+  <div class="note">
+    <p>
+      I work on efficient and explainable artificial intelligence (XAI), world models (WM) for
+      electromagnetics and wireless, and learning-based optimization (L2O) for real-world communication and
+      network decisions. Our goal is <em>interpretable, editable, and deployable</em> methods that connect
+      physics, data, and decision making.
+    </p>
+  </div>
 
-<p>Interpretable modeling and guarantees</p>
-<ul>
-  <li>
-    <ul>
-      <li><p>Attribution and concept-based explanations; counterfactual and causal probes; manifold learning
-</p></li>
-      <li><p>Generalization and convergence bounds for nonconvex/structured models
-</p></li>
-      <li><p>Risk control with conformal prediction; safety constraints and robust training</p></li>
-    </ul>
-  </li>
-</ul>
-<h2>Application Part</h2>
-<h3>World Models (WM) for Radio Environment</h3>
-<p>Physically grounded, data-driven models of radio EM environments that fuse geometry and materials (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements (sweeps arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models, GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty quantification, and active re-measurement for localized statistical channel modeling and environment-aware communication.</p>
-<p>Localized statistical channel modeling</p>
+  <h2>Theoretical Part</h2>
 
-<ul>
-<li>
-<ul>
-<li><p>Neural radio radiance fields; structured Bayesian inference on graphs
-/p>
-</li>
-<li><p>PDE and boundary consistency; material priors; calibrated uncertainty
-with multimodal fusion</p>
-</li>
-<li><p>Geometry/materials plus RF arrays plus contextual signals</p>
-</li>
-</ul>
+  <h3>Sparse and Efficient AI <span class="tag">Compression</span><span class="tag">FPGA</span></h3>
+  <p>
+    Structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with
+    unified compression and distillation for edge–cloud collaboration and federated training. HW/SW
+    co-acceleration (CPU, GPU, FPGA) enables reliable on-device deployment in wireless applications.
+  </p>
+  <ul class="tight">
+    <li>Structured sparsity and low-rank modeling</li>
+    <li>Compression and distillation for models and gradients</li>
+    <li>Communication-efficient training and adaptation</li>
+    <li>Algorithm–system co-design for throughput and energy gains</li>
+  </ul>
 
-</li>
-</ul>
-<h3>Learning-based Optimization (L2O)</h3>
-<p>Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on WM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario adaptation.</p>
-<p>Communication and RAN optimization</p>
+  <h3>Explainable AI (XAI) <span class="tag">Theory</span></h3>
+  <p>
+    Principled interpretability and reliability for models: from attribution and concept-based explanations
+    to causal and statistical guarantees, ensuring trustworthy deployment.
+  </p>
+  <ul class="tight">
+    <li>Attribution and concept-based explanations; counterfactual and causal probes; manifold learning</li>
+    <li>Generalization and convergence bounds for nonconvex / structured models</li>
+    <li>Risk control with conformal prediction; safety constraints and robust training</li>
+  </ul>
 
-<ul>
-<li>
-<ul>
-<li><p>UAV sensing plan, site placement; beam, power, and spectrum allocation; routing and formation planning
-</p>
-</li>
-<li><p>Relax–optimize–and–sample; neural projections; constraint satisfaction
-deployment</p>
-</li>
-<li><p>Edge and federated execution for real-time, certifiable decisions</p>
-</li>
-</ul>
+  <h2>Application Part</h2>
 
-</li>
-</ul>
-<h3>FieldMind: From Representation to Decisions</h3>
-<p>FieldMind is our instantiation of WM plus sparse and efficient AI plus L2O, coupled with algorithm–hardware co-design (C<tt></tt>, CUDA, FPGA; edge and federated) for online decision making. It maps structure across data, algorithms, and architectures into solvers and hardware. </p>
-</td>
-</tr>
-</table>
+  <h3>World Models (WM) for Radio Environments <span class="tag">3DGS</span><span class="tag">NeRF</span></h3>
+  <p>
+    Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
+    (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
+    (sweeps, arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models,
+    GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive
+    relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty
+    quantification, and active re-measurement for localized statistical channel modeling and
+    environment-aware communication.
+  </p>
+  <ul class="tight">
+    <li>Neural radio radiance fields; structured Bayesian inference on graphs</li>
+    <li>PDE and boundary consistency; material priors; calibrated uncertainty with multimodal fusion</li>
+    <li>Geometry / materials plus RF arrays plus contextual signals</li>
+  </ul>
+
+  <h3>Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
+  <p>
+    Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on
+    WM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
+    adaptation.
+  </p>
+  <ul class="tight">
+    <li>UAV sensing plans, site placement; beam, power, and spectrum allocation; routing and formation planning</li>
+    <li>Relax–optimize–and–sample; neural projections; constraint satisfaction in deployment</li>
+    <li>Edge and federated execution for real-time, certifiable decisions</li>
+  </ul>
+
+  <h3>FieldMind: From Representation to Decisions <span class="tag">Systems</span></h3>
+  <p>
+    FieldMind is our instantiation of WM + sparse/efficient AI + L2O, coupled with algorithm–hardware
+    co-design (C++, CUDA, FPGA; edge and federated) for online decision making. It maps structure across
+    data, algorithms, and architectures into solvers and hardware.
+  </p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>&copy; Ye Xue &middot; School of Intelligent Systems Engineering, Sun Yat-sen University</span>
+    <span><a href="index.html">Home</a></span>
+  </div>
+</footer>
+
 </body>
 </html>
