@@ -28,12 +28,28 @@
 
   <div class="note">
     <p>
-      I work on efficient and explainable artificial intelligence (XAI), world models (WM) for
-      electromagnetics and wireless, and learning-based optimization (L2O) for real-world communication and
+      I work on efficient and explainable artificial intelligence (XAI), the wireless world model (WWM) —
+      our current research focus — and learning-based optimization (L2O) for real-world communication and
       network decisions. Our goal is <em>interpretable, editable, and deployable</em> methods that connect
       physics, data, and decision making.
     </p>
   </div>
+
+  <h2>Current Focus: Wireless World Model (WWM) <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
+  <p>
+    Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
+    (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
+    (sweeps, arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models,
+    GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive
+    relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty
+    quantification, and active re-measurement for localized statistical channel modeling and
+    environment-aware communication.
+  </p>
+  <ul class="tight">
+    <li>Neural radio radiance fields; structured Bayesian inference on graphs</li>
+    <li>PDE and boundary consistency; material priors; calibrated uncertainty with multimodal fusion</li>
+    <li>Geometry / materials plus RF arrays plus contextual signals</li>
+  </ul>
 
   <h2>Theoretical Part</h2>
 
@@ -63,26 +79,10 @@
 
   <h2>Application Part</h2>
 
-  <h3>World Models (WM) for Radio Environments <span class="tag">3DGS</span><span class="tag">NeRF</span></h3>
-  <p>
-    Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
-    (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
-    (sweeps, arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models,
-    GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive
-    relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty
-    quantification, and active re-measurement for localized statistical channel modeling and
-    environment-aware communication.
-  </p>
-  <ul class="tight">
-    <li>Neural radio radiance fields; structured Bayesian inference on graphs</li>
-    <li>PDE and boundary consistency; material priors; calibrated uncertainty with multimodal fusion</li>
-    <li>Geometry / materials plus RF arrays plus contextual signals</li>
-  </ul>
-
   <h3>Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
   <p>
     Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on
-    WM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
+    the WWM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
     adaptation.
   </p>
   <ul class="tight">
@@ -93,7 +93,7 @@
 
   <h3>FieldMind: From Representation to Decisions <span class="tag">Systems</span></h3>
   <p>
-    FieldMind is our instantiation of WM + sparse/efficient AI + L2O, coupled with algorithm–hardware
+    FieldMind is our instantiation of the WWM + sparse/efficient AI + L2O, coupled with algorithm–hardware
     co-design (C++, CUDA, FPGA; edge and federated) for online decision making. It maps structure across
     data, algorithms, and architectures into solvers and hardware.
   </p>
