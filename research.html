@@ -31,7 +31,7 @@
       <b>PhiLM Lab</b> works toward <em>a more physical AI for a more open world</em>: letting AI understand the
       physical world beyond shape. Our theme is <b>physical-field reconstruction and learning &times; world
       models</b>, from physical-field modeling to autonomous decision making. We combine efficient and
-      explainable AI, the wireless world model (WWM, our current focus), and learning-based optimization (L2O)
+      explainable AI, world models of radio environments (our current focus), and learning-based optimization (L2O)
       for real-world communication and network decisions. Our goal is <em>interpretable, editable, and
       deployable</em> methods that connect physics, data, and decision making.
     </p>
@@ -40,14 +40,14 @@
   <h2>Three Directions</h2>
   <ul class="tight">
     <li><b>01 Modeling &amp; Generation</b> &mdash; 3D scene representation; physical-field reconstruction and
-      generation (the wireless world model below).</li>
+      generation (physical-field world models below).</li>
     <li><b>02 Efficient Computing &amp; Deployment</b> &mdash; AI infra, CUDA acceleration and efficient
       computation; model deployment and inference optimization (sparse and efficient AI below).</li>
     <li><b>03 Tasks &amp; Decisions</b> &mdash; learning to optimize, reinforcement learning; planning and
       execution-policy solving (L2O below).</li>
   </ul>
 
-  <h2>01 Modeling &amp; Generation &mdash; Wireless World Model (WWM) <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
+  <h2>01 Modeling &amp; Generation &mdash; Physical-Field World Models <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
   <p>
     Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
     (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
@@ -96,7 +96,7 @@
   <h3>03 Tasks &amp; Decisions &mdash; Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
   <p>
     Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on
-    the WWM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
+    the learned world model for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
     adaptation.
   </p>
   <ul class="tight">
@@ -106,11 +106,11 @@
     <li>Edge and federated execution for real-time, certifiable decisions</li>
   </ul>
 
-  <h3>FieldMind: From Representation to Decisions <span class="tag">Systems</span></h3>
+  <h3>From Representation to Decisions <span class="tag">Systems</span></h3>
   <p>
-    FieldMind is our instantiation of the WWM + sparse/efficient AI + L2O, coupled with algorithm–hardware
-    co-design (C++, CUDA, FPGA; edge and federated) for online decision making. It maps structure across
-    data, algorithms, and architectures into solvers and hardware.
+    The three directions form one pipeline: world models + sparse/efficient AI + L2O, coupled with
+    algorithm–hardware co-design (C++, CUDA, FPGA; edge and federated) for online decision making. It maps
+    structure across data, algorithms, and architectures into solvers and hardware.
   </p>
 
 </main>

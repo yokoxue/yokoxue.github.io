@@ -113,13 +113,12 @@
     <b>PhiLM Lab</b> works on teaching AI to understand the physical world beyond shape:
     <b>physical-field reconstruction and learning &times; world models</b>, going from physical-field modeling
     to autonomous decision making. Our work is organized into three directions, from representation to
-    efficient computation to decisions; the wireless world model (we call ours <b>FieldMind</b>) is our main
-    instantiation.
+    efficient computation to decisions, with radio environments as the main testbed.
   </p>
 
   <div class="areas">
     <div class="area">
-      <h3>01 Modeling &amp; Generation: Wireless World Model (WWM) <span class="tag">3DGS</span><span class="tag">NeRF</span></h3>
+      <h3>01 Modeling &amp; Generation: Physical-Field World Models <span class="tag">3DGS</span><span class="tag">NeRF</span></h3>
       <p>
         Physically grounded, data-driven models of radio/EM environments that fuse geometry and materials
         (BIM, point clouds, maps), contextual signals (vision/language, IMU, GNSS), and RF measurements
@@ -145,7 +144,7 @@
       <h3>03 Tasks &amp; Decisions: Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
       <p>
         Differentiable, learning-augmented solvers (RL/GNN/neural combinatorial optimization) operating on the
-        wireless world model (WWM) for constrained decisions: UAV sensing plans, site placement, beam/power/spectrum allocation, and
+        learned world model for constrained decisions: UAV sensing plans, site placement, beam/power/spectrum allocation, and
         routing/formation planning. We pursue feasibility guarantees, learned warm-starts, fast cross-scenario
         adaptation, and edge/federated execution for real-time, certifiable decisions.
       </p>
@@ -161,10 +160,9 @@
   </div>
 
   <p style="margin-top:16px">
-    Recently, I have focused on building <b>FieldMind</b> (our wireless-world-model instantiation), which couples
-    physics-informed field representations with algorithm–system co-design (C++/CUDA/FPGA; edge/federated) to
-    map structural sparsity into solvers and hardware, delivering end-to-end speed/energy gains and rapid
-    replanning.
+    These three directions form one pipeline in PhiLM Lab: physics-informed field representations are coupled
+    with algorithm–system co-design (C++/CUDA/FPGA; edge/federated) so that structure in the data carries
+    through to solvers and hardware, delivering end-to-end speed/energy gains and rapid replanning.
   </p>
 
   <h2 id="openings">Current Openings &middot; 2027 Ph.D. Admissions</h2>
