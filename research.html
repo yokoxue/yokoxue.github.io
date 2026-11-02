@@ -40,32 +40,31 @@
   <h2>Three Directions</h2>
   <ul class="tight">
     <li><b>01 Modeling &amp; Generation</b> &mdash; 3D scene representation; physical-field reconstruction and
-      generation (physical-field world models below).</li>
+      generation, currently centered on wireless RF fields.</li>
     <li><b>02 Efficient Computing &amp; Deployment</b> &mdash; AI infra, CUDA acceleration and efficient
-      computation; model deployment and inference optimization (sparse and efficient AI below).</li>
+      computation; model deployment and inference optimization.</li>
     <li><b>03 Tasks &amp; Decisions</b> &mdash; learning to optimize, reinforcement learning; planning and
-      execution-policy solving (L2O below).</li>
+      execution-policy solving.</li>
   </ul>
 
-  <h2>01 Modeling &amp; Generation &mdash; Physical-Field World Models <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
+  <h2>01 Modeling &amp; Generation <span class="tag">3DGS</span><span class="tag">NeRF</span><span class="tag">RF</span></h2>
   <p>
-    Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
-    (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
-    (sweeps, arrays). We combine neural representations (3DGS and NeRF variants, diffusion and energy models,
-    GNNs, neural operators such as FNO, DeepONet, and GNO) with PDE and boundary consistency, constitutive
-    relations, and structured sparsity or low-rank priors. The models support editable inversion, uncertainty
-    quantification, and active re-measurement for localized statistical channel modeling and
-    environment-aware communication.
+    3D scene representation and physical-field reconstruction and generation. <b>Our current focus is the
+    wireless radio-frequency (RF) field</b>: physically grounded, data-driven models of radio environments
+    that fuse geometry and materials (e.g., BIM, point clouds, maps), contextual signals (vision, language,
+    IMU, GNSS), and RF measurements (sweeps, arrays). We combine neural representations (3DGS and NeRF
+    variants, diffusion and energy models, GNNs, neural operators such as FNO, DeepONet, and GNO) with
+    physical consistency, constitutive relations, and structured sparsity or low-rank priors. The models
+    support editable inversion, uncertainty quantification, and active re-measurement for localized
+    statistical channel modeling and environment-aware communication.
   </p>
   <ul class="tight">
-    <li>Neural radio radiance fields; structured Bayesian inference on graphs</li>
+    <li>RF radiance fields and Gaussian splatting for radio environments; structured Bayesian inference on graphs</li>
     <li>PDE and boundary consistency; material priors; calibrated uncertainty with multimodal fusion</li>
     <li>Geometry / materials plus RF arrays plus contextual signals</li>
   </ul>
 
-  <h2>Theoretical Part</h2>
-
-  <h3>02 Efficient Computing &amp; Deployment &mdash; Sparse and Efficient AI <span class="tag">CUDA</span><span class="tag">Compression</span><span class="tag">FPGA</span></h3>
+  <h2>02 Efficient Computing &amp; Deployment <span class="tag">CUDA</span><span class="tag">Compression</span><span class="tag">FPGA</span></h2>
   <p>
     Structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with
     unified compression and distillation for edge–cloud collaboration and federated training. AI infra and
@@ -80,10 +79,10 @@
     <li>Algorithm–system co-design for throughput and energy gains</li>
   </ul>
 
-  <h3>Explainable AI (XAI) <span class="tag">Theory</span></h3>
+  <h3>Explainable AI <span class="tag">Theory</span></h3>
   <p>
-    Principled interpretability and reliability for models: from attribution and concept-based explanations
-    to causal and statistical guarantees, ensuring trustworthy deployment.
+    Principled interpretability and reliability for the models we deploy: from attribution and concept-based
+    explanations to causal and statistical guarantees.
   </p>
   <ul class="tight">
     <li>Attribution and concept-based explanations; counterfactual and causal probes; manifold learning</li>
@@ -91,13 +90,12 @@
     <li>Risk control with conformal prediction; safety constraints and robust training</li>
   </ul>
 
-  <h2>Application Part</h2>
-
-  <h3>03 Tasks &amp; Decisions &mdash; Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
+  <h2>03 Tasks &amp; Decisions <span class="tag">L2O</span><span class="tag">GNN</span><span class="tag">RL</span></h2>
   <p>
-    Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on
-    the learned world model for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
-    adaptation.
+    Learning-based optimization (L2O) and reinforcement learning for planning and execution-policy solving.
+    Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operate on
+    the learned world model for constrained decisions, with feasibility guarantees, learned warm-starts, and
+    fast cross-scenario adaptation.
   </p>
   <ul class="tight">
     <li>UAV sensing plans, site placement; beam, power, and spectrum allocation; routing and formation planning</li>
