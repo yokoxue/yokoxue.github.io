@@ -28,14 +28,26 @@
 
   <div class="note">
     <p>
-      I work on efficient and explainable artificial intelligence (XAI), the wireless world model (WWM) —
-      our current research focus — and learning-based optimization (L2O) for real-world communication and
-      network decisions. Our goal is <em>interpretable, editable, and deployable</em> methods that connect
-      physics, data, and decision making.
+      <b>PhiLM Lab</b> works toward <em>a more physical AI for a more open world</em>: letting AI understand the
+      physical world beyond shape. Our theme is <b>physical-field reconstruction and learning &times; world
+      models</b>, from physical-field modeling to autonomous decision making. We combine efficient and
+      explainable AI, the wireless world model (WWM, our current focus), and learning-based optimization (L2O)
+      for real-world communication and network decisions. Our goal is <em>interpretable, editable, and
+      deployable</em> methods that connect physics, data, and decision making.
     </p>
   </div>
 
-  <h2>Current Focus: Wireless World Model (WWM) <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
+  <h2>Three Directions</h2>
+  <ul class="tight">
+    <li><b>01 Modeling &amp; Generation</b> &mdash; 3D scene representation; physical-field reconstruction and
+      generation (the wireless world model below).</li>
+    <li><b>02 Efficient Computing &amp; Deployment</b> &mdash; AI infra, CUDA acceleration and efficient
+      computation; model deployment and inference optimization (sparse and efficient AI below).</li>
+    <li><b>03 Tasks &amp; Decisions</b> &mdash; learning to optimize, reinforcement learning; planning and
+      execution-policy solving (L2O below).</li>
+  </ul>
+
+  <h2>01 Modeling &amp; Generation &mdash; Wireless World Model (WWM) <span class="tag">3DGS</span><span class="tag">NeRF</span></h2>
   <p>
     Physically grounded, data-driven models of radio EM environments that fuse geometry and materials
     (e.g., BIM, point clouds, maps), contextual signals (vision, language, IMU, GNSS), and RF measurements
@@ -53,16 +65,18 @@
 
   <h2>Theoretical Part</h2>
 
-  <h3>Sparse and Efficient AI <span class="tag">Compression</span><span class="tag">FPGA</span></h3>
+  <h3>02 Efficient Computing &amp; Deployment &mdash; Sparse and Efficient AI <span class="tag">CUDA</span><span class="tag">Compression</span><span class="tag">FPGA</span></h3>
   <p>
     Structured sparsity, low-rank, and tensorization across data, features, models, and gradients, with
-    unified compression and distillation for edge–cloud collaboration and federated training. HW/SW
-    co-acceleration (CPU, GPU, FPGA) enables reliable on-device deployment in wireless applications.
+    unified compression and distillation for edge–cloud collaboration and federated training. AI infra and
+    HW/SW co-acceleration (CPU, GPU/CUDA, FPGA) enable efficient inference and reliable on-device deployment
+    of field models and decision policies.
   </p>
   <ul class="tight">
     <li>Structured sparsity and low-rank modeling</li>
     <li>Compression and distillation for models and gradients</li>
     <li>Communication-efficient training and adaptation</li>
+    <li>CUDA acceleration, model deployment, and inference optimization</li>
     <li>Algorithm–system co-design for throughput and energy gains</li>
   </ul>
 
@@ -79,7 +93,7 @@
 
   <h2>Application Part</h2>
 
-  <h3>Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
+  <h3>03 Tasks &amp; Decisions &mdash; Learning-based Optimization (L2O) <span class="tag">GNN</span><span class="tag">RL</span></h3>
   <p>
     Differentiable, learning-augmented solvers (RL, GNN, and neural combinatorial optimization) operating on
     the WWM for constrained decisions, with feasibility guarantees, learned warm-starts, and fast cross-scenario
@@ -87,6 +101,7 @@
   </p>
   <ul class="tight">
     <li>UAV sensing plans, site placement; beam, power, and spectrum allocation; routing and formation planning</li>
+    <li>Reinforcement learning for planning and execution-policy solving on the world model</li>
     <li>Relax–optimize–and–sample; neural projections; constraint satisfaction in deployment</li>
     <li>Edge and federated execution for real-time, certifiable decisions</li>
   </ul>
@@ -102,7 +117,7 @@
 
 <footer class="site-footer">
   <div class="wrap">
-    <span>&copy; Ye Xue &middot; School of Intelligent Systems Engineering, Sun Yat-sen University</span>
+    <span>&copy; Ye Xue &middot; PhiLM Lab, School of Intelligent Systems Engineering, Sun Yat-sen University</span>
     <span><a href="index.html">Home</a></span>
   </div>
 </footer>
